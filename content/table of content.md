@@ -25,7 +25,7 @@ Work in Progress 👨‍🏭
 [[Python]]
 [[Metodologías Ágiles]]
 ## Humanidades
-[[Formación Humanística I]]  [[Formación Humanística II]]  [[Formación Humanística III]]
+[[Formación Humanística I]]  [[Formación Humanística II]]  [[Formación Humanística III]] [[Formación Humanística IV]]
 
 ##  Finanzas
 [[Economía]]

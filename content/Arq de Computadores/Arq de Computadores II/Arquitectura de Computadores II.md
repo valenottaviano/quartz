@@ -1,0 +1,2 @@
+- [[Principio del rendimiento de un microprocesador]]
+	- [[Ley de Amdahl]] 
