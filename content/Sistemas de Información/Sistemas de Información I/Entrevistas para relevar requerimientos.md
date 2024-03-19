@@ -48,6 +48,11 @@ Source:: [[Ciclos de desarrollo]]
 		- Secuencia. A quién entrevisto primero? Y luego?
 	- Debo contar con la aprobación necesaria para realizar las entrevistas
 	- No debo entorpecer las tareas del entrevistado
+	- Documentación involucrada en la entrevista
+		- Documentos previos y otros entregados previamente al entrevistado
+		- Contar con los documentos involucrados en la entrevista
+		- Registro de la entrevista (acta)
+		- Documentos que es obtuvieron a partir de la entrevista
 
 ## Técnicas de entrevistas
 ![[Pasted image 20240319200226.png]]
