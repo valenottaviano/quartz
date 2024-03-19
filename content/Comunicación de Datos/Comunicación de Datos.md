@@ -16,5 +16,5 @@
 	- [[Conectividad con Cobre]]
 	- [[Fibra Optica]]
 - [[Internetworking]]
-	- [[Modelo de referencia OSI]]
+	- [[Arq de Computadores/Arq de Computadores I/Modelo de referencia OSI]]
 	- [[TCP 3-Way Handshake]]

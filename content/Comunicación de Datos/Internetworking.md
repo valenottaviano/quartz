@@ -20,5 +20,5 @@ El internetworking, también conocido como interconexión de redes, se refiere a
 
 
 Continuación:
-[[Modelo de referencia OSI]]
+[[Arq de Computadores/Arq de Computadores I/Modelo de referencia OSI]]
 [[Topología ethernet]]
