@@ -10,3 +10,7 @@
 2. [[Ciclos de desarrollo]]
 	1. [[Metodología IODA]]
 	2. [[Entrevistas para relevar requerimientos]]
+
+
+## Trabajos prácticos
+[[Trabajo Práctico 1]]
