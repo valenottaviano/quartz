@@ -1,2 +1,7 @@
 - [[Principio del rendimiento de un microprocesador]]
+	- [[El microprocesador]]
 	- [[Ley de Amdahl]] 
+	- [[Ley de Gustafson]]
+	- [[Conceptos de paralelismo]]
+	- [[Dependencias del paralelismo]]
+	- [[Tipos de paralelismo]]
