@@ -1,1 +1,3 @@
 - [[Doctrina social de la Iglesia]]
+	- [[La iglesia y lo social]]
+	- [[La DSI en el plan divino de la salvación]]

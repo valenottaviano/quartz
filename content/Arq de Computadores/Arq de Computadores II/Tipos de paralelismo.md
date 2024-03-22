@@ -8,14 +8,16 @@ Source:: [[Conceptos de paralelismo]]
 
 En computación, el paralelismo se refiere a la capacidad de realizar múltiples tareas simultáneamente, lo que puede mejorar significativamente el rendimiento de los sistemas. Existen diferentes tipos de paralelismo, entre los cuales se destacan el paralelismo implícito, el paralelismo explícito y el modelo de clasificación de Flynn.
 
-## Paralelismo Implícito
+# Paralelismo Implícito
+
 - Principalmente el hardware o duplicidad de recursos
 El paralelismo implícito se refiere a la capacidad de un sistema para realizar operaciones simultáneas sin requerir una intervención directa del programador. En este tipo de paralelismo, las tareas se ejecutan de forma automática y transparente al software, lo que significa que el programador no necesita especificar cómo se deben distribuir las tareas entre los procesadores. El principal beneficio del paralelismo implícito es la mejora en el rendimiento sin necesidad de modificar el código existente.
 
 - **Segmentación**: La segmentación es una técnica que divide la ejecución de una instrucción en varias etapas secuenciales, permitiendo que diferentes partes de la instrucción se ejecuten simultáneamente en diferentes unidades de hardware. Cada etapa se encarga de una parte específica de la instrucción, lo que aumenta la eficiencia al permitir que múltiples instrucciones se procesen al mismo tiempo. Esta técnica se utiliza en procesadores segmentados, donde cada etapa del procesador se encarga de una parte de la ejecución de la instrucción.
 - **División funcional**: Por otro lado, la división funcional implica la separación de las funciones de un procesador en unidades especializadas que trabajan de forma simultánea en diferentes partes de una tarea. Cada unidad funcional se encarga de una tarea específica, como el cálculo aritmético, la gestión de memoria o la ejecución de instrucciones, lo que permite que múltiples funciones se realicen al mismo tiempo. Esta división funcional mejora la eficiencia al distribuir la carga de trabajo entre las diferentes unidades funcionales del procesador.
 
-## Paralelismo Explícito
+# Paralelismo Explícito
+
 - Principalmente en la programación y segmentación de tareas
 El modelo de clasificación de Flynn es una forma de categorizar los sistemas informáticos según la cantidad de instrucciones y datos que pueden procesar simultáneamente. Este modelo distingue entre cuatro tipos principales:
 ![[Pasted image 20240322171034.png]]
