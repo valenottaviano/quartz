@@ -1,0 +1,3 @@
+Un ERP, siglas de Enterprise Resource Planning o Planificación de Recursos Empresariales, es un sistema de software que **se encarga de automatizar y gestionar diversas operaciones internas de una empresa, abarcando áreas como producción, distribución, recursos humanos, finanzas, logística, entre otras.** Este tipo de software integra datos de diferentes departamentos para controlar procesos de forma automática, aumentando la productividad y reduciendo costos. Los sistemas ERP son fundamentales para centralizar información, optimizar operaciones, mejorar la toma de decisiones y facilitar la coordinación entre equipos, lo que resulta en una mayor eficiencia empresarial y competitividad
+
+![[Pasted image 20240325175102.png]]
