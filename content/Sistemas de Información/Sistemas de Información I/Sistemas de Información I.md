@@ -10,7 +10,8 @@
 2. [[Ciclos de desarrollo]]
 	1. [[Metodología IODA]]
 	2. [[Entrevistas para relevar requerimientos]]
-
+3. [[Diseño de interfaces]]
+	1. [[Reglas de usabilidad]]
 
 ## Trabajos prácticos
 
