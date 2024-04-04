@@ -43,8 +43,12 @@ En la entrevista, el cliente nos sugiere la *posibilidad de solicitar a los empl
 
 Antes
 ![[Pasted image 20240326181325.png]]
+![[Pasted image 20240326194030.png]]
+
 Después
 ![[Pasted image 20240326181350.png]]
+![[Pasted image 20240326194048.png]]
+
 - En el nuevo caso de uso, el jefe de area ya no trabajará con las planillas físicas. Directamente las novedades se cargan día a día en el sistema.
 	- Asistencias se cargarán con lectores de huellas dactilares.
 	- Las licencias serán cargadas a través de formulario online.

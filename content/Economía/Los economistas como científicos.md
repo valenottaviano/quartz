@@ -22,6 +22,11 @@ Así como todos los campos de estudio tienen su propio lenguaje y forma de pensa
 	- Por ello, prestan especial atención a los datos históricos.
 
 ## El papel de los supuestos
+
+Los supuestos son fundamentales a la hora de realizar un modelo, tanto en el mundo científico como en el económico. 
+Esto nos permite asumir ciertas condiciones que al fin y al cabo simplifican la dimensión del problema para su análisis .
+Permite a los economistas centrarse en aquellos factores realmente importantes.
+
 - Los supuestos desempeñan un papel fundamental en el método científico utilizado por los economistas al simplificar la realidad y facilitar la comprensión de fenómenos económicos complejos. 
 	- Al igual que en otras disciplinas científicas, los economistas hacen supuestos para desarrollar teorías y modelos que les permitan analizar cuestiones económicas específicas. 
 	- Estos supuestos son necesarios para **abordar situaciones donde la experimentación directa es difícil o imposible en economía**, a diferencia de disciplinas como la física.
