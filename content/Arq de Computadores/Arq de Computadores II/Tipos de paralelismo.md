@@ -1,4 +1,4 @@
-# Tipos de paralelismo
+# Tipos de paralelismo (Taxonomía de Flynn)
 
 %%
 Date:: [[2024-03-22]]
@@ -10,10 +10,12 @@ En computación, el paralelismo se refiere a la capacidad de realizar múltiples
 
 # Paralelismo Implícito
 
-- Principalmente el hardware o duplicidad de recursos
+Principalmente el hardware o duplicidad de recursos.
 El paralelismo implícito se refiere a la capacidad de un sistema para realizar operaciones simultáneas sin requerir una intervención directa del programador. En este tipo de paralelismo, las tareas se ejecutan de forma automática y transparente al software, lo que significa que el programador no necesita especificar cómo se deben distribuir las tareas entre los procesadores. El principal beneficio del paralelismo implícito es la mejora en el rendimiento sin necesidad de modificar el código existente.
 
 - **Segmentación**: La segmentación es una técnica que divide la ejecución de una instrucción en varias etapas secuenciales, permitiendo que diferentes partes de la instrucción se ejecuten simultáneamente en diferentes unidades de hardware. Cada etapa se encarga de una parte específica de la instrucción, lo que aumenta la eficiencia al permitir que múltiples instrucciones se procesen al mismo tiempo. Esta técnica se utiliza en procesadores segmentados, donde cada etapa del procesador se encarga de una parte de la ejecución de la instrucción.
+	- El microprocesador está diseñado en función de hilos (conductos), en el cual cada uno tiene 
+
 - **División funcional**: Por otro lado, la división funcional implica la separación de las funciones de un procesador en unidades especializadas que trabajan de forma simultánea en diferentes partes de una tarea. Cada unidad funcional se encarga de una tarea específica, como el cálculo aritmético, la gestión de memoria o la ejecución de instrucciones, lo que permite que múltiples funciones se realicen al mismo tiempo. Esta división funcional mejora la eficiencia al distribuir la carga de trabajo entre las diferentes unidades funcionales del procesador.
 
 # Paralelismo Explícito
@@ -51,3 +53,6 @@ En contraste, los sistemas débilmente acoplados, también llamados sistemas dis
 - Eliminación de interacciones no deseadas entre los procesadores al no compartir memoria.
 
 ![[Pasted image 20240322172013.png]]
+
+
+[[Coherencia de los datos]]
