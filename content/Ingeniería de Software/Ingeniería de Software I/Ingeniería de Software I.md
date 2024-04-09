@@ -5,5 +5,3 @@
 - [[Arquitectura del Software]]
 	- [[Microservicios]]
 - [[Diagrama de GANTT]]
-- [[Diseño de interfaces]]
-	- [[Reglas de usabilidad]]

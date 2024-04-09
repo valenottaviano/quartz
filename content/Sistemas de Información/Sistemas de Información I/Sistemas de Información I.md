@@ -12,7 +12,11 @@
 	2. [[Entrevistas para relevar requerimientos]]
 3. [[Diseño de interfaces]]
 	1. [[Reglas de usabilidad]]
+	2. [[Ley de Fitts]]
+	3. [[User flow]]
+	4. [[Conceptos básicos del diseño de interfaces]]
 
 ## Trabajos prácticos
 
 - [[Trabajo Práctico 1]]
+- [[Trabajo Práctico 2]]

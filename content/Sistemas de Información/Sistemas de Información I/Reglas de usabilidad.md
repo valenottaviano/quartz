@@ -33,9 +33,12 @@ Las Reglas Heurísticas de Nielsen constan de 10 principios, cada uno centrado e
 2. **Coincidencia entre el sistema y el mundo real**: Las interfaces de usuario deben utilizar lenguaje, metáforas y conceptos familiares para los usuarios, facilitando la comprensión y el uso. (Ej: Gracias, tu transacción ha sido aceptada)
 3. **Dale al usuario el control y la libertad**: Los usuarios deben sentirse en control de la interfaz y poder corregir fácilmente sus acciones, evitando situaciones de bloqueo o confusión. Siempre debe tener opciones. Siempre es conveniente tener un botón de *atrás*, *home* y *salir*.
 4. **Consistencia y estándares**: La interfaz debe ser coherente en su diseño y comportamiento, siguiendo los estándares y convenciones de la plataforma y la industria. [Design Systems](https://www.nngroup.com/articles/design-systems-101/)
-5. **Prevención de errores**: El diseño debe minimizar la ocurrencia de errores, eliminando las condiciones propensas a los mismos y proporcionando mensajes claros y útiles en caso de error.
+5. **Prevención de errores**: El diseño debe minimizar la ocurrencia de errores, eliminando las condiciones propensas a los mismos y proporcionando mensajes claros y útiles en caso de error. (*Es una utopía pensar que un software no va a tener errores*)
 6. **Reconocimiento para evitar el recuerdo**: La interfaz debe reducir la carga de memoria del usuario, haciendo visibles los elementos y acciones necesarios en todo momento.
 7. **Flexibilidad y eficiencia de uso**: La interfaz debe ser flexible y eficiente, adaptándose a diferentes niveles de experiencia y habilidad de los usuarios.
 8. **Estética y diseño minimalista**: La interfaz debe ser atractiva y minimalista, evitando elementos innecesarios y distracciones que puedan confundir o distraer al usuario.
 9. **Ayuda y documentación**: La interfaz debe proporcionar ayuda y documentación adecuadas, accesibles y fáciles de encontrar cuando el usuario lo necesite.
 10. **Privacidad y seguridad**: La interfaz debe garantizar la privacidad y seguridad de los usuarios, protegiendo sus datos y brindando transparencia en el manejo de la información.
+
+
+[[Ley de Fitts]]
