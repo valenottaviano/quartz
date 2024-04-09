@@ -2,7 +2,7 @@ Course: [[Algebra II]]
 
 
 # Definición de parábola
-Dados en el plano una recta $d$ llamada directriz y un punto $F$ llamado foco, tal que $F\notin d$. Llamamos parábola al conjunto: $$P=\{X\in \mathbb{R}^2:\text{dist}(F,X)=\text{dist}(d,X)\}$$![Untitled | 300](_private/Images/Parábola%20en%20R2/Untitled%201.png)
+Dados en el plano una recta $d$ llamada directriz y un punto $F$ llamado foco, tal que $F\notin d$. Llamamos parábola al conjunto: $$P=\{X\in \mathbb{R}^2:\text{dist}(F,X)=\text{dist}(d,X)\}$$![Untitled | 300](Images/Parábola%20en%20R2/Untitled%201.png)
 
 ## Ecuación canónica de la parábola
 La ecuación canónica de la parábola se puede escribir en la forma:

@@ -11,7 +11,7 @@
 - Acceso al archivo: Es el método utilizado para leer o escribir los registros de un archivo prescindiendo de su organización
 - La organización de un archivo se especifica o se construye bajo un programa al crearlo y no puede cambiarse
 
-![Untitled](_private/Images/Organización%20de%20los%20archivos/Untitled.png)
+![Untitled](Images/Organización%20de%20los%20archivos/Untitled.png)
 
 ### Modos de acceso
 
@@ -20,12 +20,12 @@
 - Acceso directo
     - cada registro puede leerse directamente sin necesidad de leer los que le preceden. Basta con expresar su dirección relativa en el archivo, obtenido o no por una transformación de su clave
         
-        ![Untitled](_private/Images/Organización%20de%20los%20archivos/Untitled%201.png)
+        ![Untitled](Images/Organización%20de%20los%20archivos/Untitled%201.png)
         
 - Acceso por índice
     - se accede indirectamente a los registros por su clave, mediante consulta secuencial a una tabla que contiene la clave y la dirección relativa de cada registro y posteriormente se hace acceso directo al registro
         
-        ![Untitled](_private/Images/Organización%20de%20los%20archivos/Untitled%202.png)
+        ![Untitled](Images/Organización%20de%20los%20archivos/Untitled%202.png)
         
 
 ## Organización de Archivos
@@ -45,13 +45,13 @@
     - **Transformación de claves**
         - Direccionamiento directo
             
-            ![Untitled](_private/Images/Organización%20de%20los%20archivos/Untitled%203.png)
+            ![Untitled](Images/Organización%20de%20los%20archivos/Untitled%203.png)
             
             El método de direccionamiento directo se emplea cuando las claves primarias son números consecutivos o tienen pocos huecos. Al valor de la clave primaria más pequeña se le asocia la dirección relativa 1, a la siguiente la dirección 2 y así sucesivamente
             
         - Tablas de consulta
             
-            ![Untitled](_private/Images/Organización%20de%20los%20archivos/Untitled%204.png)
+            ![Untitled](Images/Organización%20de%20los%20archivos/Untitled%204.png)
             
             El método de la tabla de consulta asocia la clave primaria de cada registro con su dirección relativa
             
@@ -64,7 +64,7 @@
 - En el método de hashing la ubicación o dirección para una clave X, se obtiene computando alguna función f, sobre X. f( X ) nos da la dirección donde está ubicado el registro con clave X , en una zona de memoria.
 - La memoria disponible sobre la que se trabajará se asume como secuencial y la denominaremos TABLA HASH (HT).
 
-![Untitled](_private/Images/Organización%20de%20los%20archivos/Untitled%205.png)
+![Untitled](Images/Organización%20de%20los%20archivos/Untitled%205.png)
 
 - Tratamiento de Rebalse (overflow)
     - Rebalse abierto - Rastreo lineal
@@ -82,11 +82,11 @@ Para lograr este objetivo es necesaria la utilización de un ARCHIVO INDEXADO. U
 - archivo índice
 - archivo secundario
 
-![Untitled](_private/Images/Organización%20de%20los%20archivos/Untitled%206.png)
+![Untitled](Images/Organización%20de%20los%20archivos/Untitled%206.png)
 
 El archivo de datos no está almacenado en secuencia física por un campo, pero se necesita acceso directo a los datos por un campo
 
-![Untitled](_private/Images/Organización%20de%20los%20archivos/Untitled%207.png)
+![Untitled](Images/Organización%20de%20los%20archivos/Untitled%207.png)
 
 **Indices Enlazados ( Linked Indexes ) :**
 
@@ -100,4 +100,4 @@ El archivo de datos no está almacenado en secuencia física por un campo, pero 
 
 - En los Indices No Densos todas las claves de búsqueda no están en el índice. Solo estarán algunas de ellas. Las que están depende de la arquitectura del índice.
     
-    ![Untitled](_private/Images/Organización%20de%20los%20archivos/Untitled%208.png)
+    ![Untitled](Images/Organización%20de%20los%20archivos/Untitled%208.png)

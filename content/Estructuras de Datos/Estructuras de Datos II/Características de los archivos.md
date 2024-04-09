@@ -6,7 +6,7 @@
 
 ### Componentes físicos de un sistema de computación
 
-![Untitled](_private/Images/Características%20de%20los%20archivos/Untitled.png)
+![Untitled](Images/Características%20de%20los%20archivos/Untitled.png)
 
 - BIOS
     - Es un software que se encuentra en todos los dispositivos (no solo la mother)
@@ -14,7 +14,7 @@
     - Lo primero en cargarse al encender la PC
 - Dispositivo de almacenamiento es todo aparato que se utilice para grabar los datos de la computadora de forma permanente o temporal.
 
-![Untitled](_private/Images/Características%20de%20los%20archivos/Untitled%201.png)
+![Untitled](Images/Características%20de%20los%20archivos/Untitled%201.png)
 
 ## Medios de Almacenamientos
 
@@ -30,15 +30,15 @@
         
         Sitio donde se almacenan principalmente todos los programas en el momento de ejecución.
         
-        ![Untitled](_private/Images/Características%20de%20los%20archivos/Untitled%202.png)
+        ![Untitled](Images/Características%20de%20los%20archivos/Untitled%202.png)
         
         - Memoria Caché
             
-            ![Untitled](_private/Images/Características%20de%20los%20archivos/Untitled%203.png)
+            ![Untitled](Images/Características%20de%20los%20archivos/Untitled%203.png)
             
             - La L1 está unida al micro, mientras que la L2 se encuentra un poco más separada
                 
-                ![Untitled](_private/Images/Características%20de%20los%20archivos/Untitled%204.png)
+                ![Untitled](Images/Características%20de%20los%20archivos/Untitled%204.png)
                 
 
 - **Dispositivos de almacenamiento secundarios**
@@ -81,7 +81,7 @@
 - Registros físicos
     - Es aquello que guardamos en un disco rígido (de forma magnética). Su tamaño y orden en el que se guarda no está relacionado con el del registro lógico
     
-    ![Untitled](_private/Images/Características%20de%20los%20archivos/Untitled%205.png)
+    ![Untitled](Images/Características%20de%20los%20archivos/Untitled%205.png)
     
 
 ### Administrador de Archivos
@@ -101,7 +101,7 @@ Pasos a dar para hacer la escritura de un archivo
 4. El controlador del disco y su software dan instrucciones al dispositivo de cómo encontrar la pista y sector apropiados.
 5. El dispositivo recibe el byte y lo deposita en la superficie del disco.
 
-![Untitled](_private/Images/Características%20de%20los%20archivos/Untitled%206.png)
+![Untitled](Images/Características%20de%20los%20archivos/Untitled%206.png)
 
 - Puesto que el tiempo de transferencia suele ser lento con respecto a la velocidad del CPU, se utiliza un **buffer**
     - Parte de la memoria principal, que está disponible para almacenar bloques de datos que van a ser transferidos entre un dispositivo y la memoria principal.
@@ -116,7 +116,7 @@ Pasos a dar para hacer la escritura de un archivo
 
 - Muchas veces no se carga la totalidad del programa. Utiliza algunos segmentos que los ubica en la memoria principal, los más importantes
 
-![Untitled](_private/Images/Características%20de%20los%20archivos/Untitled%207.png)
+![Untitled](Images/Características%20de%20los%20archivos/Untitled%207.png)
 
 - la estructura del programa refleja su división lógica, llevándose a cabo una agrupación lógica de la información en bloques de tamaño variable
 
@@ -125,4 +125,4 @@ Pasos a dar para hacer la escritura de un archivo
 - A diferencia de la segmentación utiliza tamaños fijos
 - La paginación es uno de los esquemas de manejo de memoria en donde un computador puede almacenar y recuperar datos de un dispositivo de almacenamiento secundario para su uso en la memoria principal.
 
-![Untitled](_private/Images/Características%20de%20los%20archivos/Untitled%208.png)
+![Untitled](Images/Características%20de%20los%20archivos/Untitled%208.png)

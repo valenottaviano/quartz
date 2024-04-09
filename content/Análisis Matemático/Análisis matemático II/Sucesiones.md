@@ -52,8 +52,8 @@ Year: 2022
     
 - Cuáles son las propiedades de las sucesiones convergentes
     
-    ![Untitled](_private/Images/Sucesiones/Untitled.png)
+    ![Untitled](Images/Sucesiones/Untitled.png)
     
-    ![Untitled](_private/Images/Sucesiones/Untitled%201.png)
+    ![Untitled](Images/Sucesiones/Untitled%201.png)
 
 

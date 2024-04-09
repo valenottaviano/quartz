@@ -28,6 +28,6 @@ Las curvas de nivel son ampliamente utilizadas en cartografía para representar 
 - [Curvas de nível - GeoGebra](https://www.geogebra.org/m/crkzbhzr)
 
 
-![Untitled](_private/Images/Curvas%20de%20nivel/Untitled.png)
+![Untitled](Images/Curvas%20de%20nivel/Untitled.png)
 
-![Untitled](_private/Images/Curvas%20de%20nivel/Untitled%201.png)
+![Untitled](Images/Curvas%20de%20nivel/Untitled%201.png)

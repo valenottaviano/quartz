@@ -18,9 +18,9 @@ Course: [[Algebra II]]
 - Teorema valores propios en matriz triangular
 	El teorema de los valores propios en matriz triangular establece que los valores propios de una matriz triangular son los elementos de su diagonal principal. Es decir, si $A$ es una matriz triangular, entonces los valores propios de $A$ son los elementos $a_{ii}$ de su diagonal principal.
     
-- Demostración de isomorfismo (Se debe probar que todo vector de un conjunto está en el otro y recíprocamente)![Endomorfismos%20de%20espacios%20vectoriales/Untitled%208.png](_private/Images/Endomorfismos%20de%20espacios%20vectoriales/Untitled%208.png)
+- Demostración de isomorfismo (Se debe probar que todo vector de un conjunto está en el otro y recíprocamente)![Endomorfismos%20de%20espacios%20vectoriales/Untitled%208.png](Images/Endomorfismos%20de%20espacios%20vectoriales/Untitled%208.png)
 
-- Definición de yuxtaposición y conjunto generado![Untitled](_private/Images/Endomorfismos%20de%20espacios%20vectoriales/Untitled%209.png)![Untitled](_private/Images/Endomorfismos%20de%20espacios%20vectoriales/Untitled%2010.png)
+- Definición de yuxtaposición y conjunto generado![Untitled](Images/Endomorfismos%20de%20espacios%20vectoriales/Untitled%209.png)![Untitled](Images/Endomorfismos%20de%20espacios%20vectoriales/Untitled%2010.png)
 
 - Teorema matriz diagonal y valores propios
     El teorema de la matriz diagonal y valores propios establece que una matriz cuadrada es diagonalizable si y solo si tiene un conjunto completo de vectores propios linealmente independientes. En otras palabras, una matriz cuadrada $A$ es diagonalizable si y solo si existe una matriz diagonal $D$ y una matriz invertible $P$ tal que $A = PDP^{-1}$, donde las columnas de $P$ son los vectores propios linealmente independientes de $A$ y las entradas diagonales de $D$ son los valores propios correspondientes.
@@ -30,8 +30,8 @@ Course: [[Algebra II]]
 	- $\lambda_1 + \lambda_2 + ... + \lambda_n = \operatorname{tr}(A)$, donde $\operatorname{tr}(A)$ es la traza de $A$, es decir, la suma de los elementos de su diagonal principal.
 	- $\lambda_1 \cdot \lambda_2 \cdot ... \cdot \lambda_n = \det(A)$, donde $\det(A)$ es el determinante de $A$.
     
-- Teorema A. Dimensión del subespacio mendiante el valor propio.    ![Untitled](_private/Images/Endomorfismos%20de%20espacios%20vectoriales/Untitled%2013.png)
+- Teorema A. Dimensión del subespacio mendiante el valor propio.    ![Untitled](Images/Endomorfismos%20de%20espacios%20vectoriales/Untitled%2013.png)
 
-- Teorema B. Dimension máxima mediante multiplicidad.![Untitled](_private/Images/Endomorfismos%20de%20espacios%20vectoriales/Untitled%2014.png)
+- Teorema B. Dimension máxima mediante multiplicidad.![Untitled](Images/Endomorfismos%20de%20espacios%20vectoriales/Untitled%2014.png)
 
-- Teorema C. Li mendiante los vectores yuxtapuestos.![Untitled](_private/Images/Endomorfismos%20de%20espacios%20vectoriales/Untitled%2015.png)
+- Teorema C. Li mendiante los vectores yuxtapuestos.![Untitled](Images/Endomorfismos%20de%20espacios%20vectoriales/Untitled%2015.png)

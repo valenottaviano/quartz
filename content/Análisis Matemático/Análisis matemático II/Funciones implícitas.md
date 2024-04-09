@@ -5,6 +5,6 @@ Date: February 13, 2023 7:50 PM
 Status: Done
 Year: 2022
 
-![Untitled](_private/Images/Funciones%20implícitas/Untitled.png)
+![Untitled](Images/Funciones%20implícitas/Untitled.png)
 
-![Untitled](_private/Images/Funciones%20implícitas/Untitled%201.png)
+![Untitled](Images/Funciones%20implícitas/Untitled%201.png)

@@ -17,7 +17,7 @@ Year: 2022
     
     - Queremos ver si es convergente o no. Primero vamos a utilizar las sumas parciales, donde cada S_n es la suma de todos los términos. Desde el primero hasta el n-ésimo
     
-    ![Untitled](_private/Images/Series%20numéricas%20de%20términos%20positivos/Untitled.png)
+    ![Untitled](Images/Series%20numéricas%20de%20términos%20positivos/Untitled.png)
     
     - El comportamiento de la serie será el mismo que el de la sucesión $\{S_n\}$. La naturaleza de la serie va a depender del comportamiento de la sucesión.
 - Cómo se define la convergencia de una serie?
@@ -77,36 +77,36 @@ Year: 2022
     
 - Explique las propiedades de las series
     
-    ![Untitled](_private/Images/Series%20numéricas%20de%20términos%20positivos/Untitled%201.png)
+    ![Untitled](Images/Series%20numéricas%20de%20términos%20positivos/Untitled%201.png)
     
-    ![Untitled](_private/Images/Series%20numéricas%20de%20términos%20positivos/Untitled%202.png)
+    ![Untitled](Images/Series%20numéricas%20de%20términos%20positivos/Untitled%202.png)
     
-    ![Untitled](_private/Images/Series%20numéricas%20de%20términos%20positivos/Untitled%203.png)
+    ![Untitled](Images/Series%20numéricas%20de%20términos%20positivos/Untitled%203.png)
     
-    ![Untitled](_private/Images/Series%20numéricas%20de%20términos%20positivos/Untitled%204.png)
+    ![Untitled](Images/Series%20numéricas%20de%20términos%20positivos/Untitled%204.png)
     
 - Enuncie y demuestre el teorema condición necesaria para la convergencia
     
     Si la serie $\sum a_n$ converge, entonces: $\lim_{n\rightarrow \infty}a_n =0$
     
-    ![Untitled](_private/Images/Series%20numéricas%20de%20términos%20positivos/Untitled%205.png)
+    ![Untitled](Images/Series%20numéricas%20de%20términos%20positivos/Untitled%205.png)
     
     Si el $\lim_{n\rightarrow \infty}a_n \neq 0$ o no existe $\Rightarrow \sum a_n$ es divergente
     
 - Explique el criterio de comparación directa
     - Para las comparaciones generalmente utilizaremos las series conocidas y mencionadas anteriormente.
     
-    ![Untitled](_private/Images/Series%20numéricas%20de%20términos%20positivos/Untitled%206.png)
+    ![Untitled](Images/Series%20numéricas%20de%20términos%20positivos/Untitled%206.png)
     
 - Explique el criterio de comparación asintótica
     
-    ![Untitled](_private/Images/Series%20numéricas%20de%20términos%20positivos/Untitled%207.png)
+    ![Untitled](Images/Series%20numéricas%20de%20términos%20positivos/Untitled%207.png)
     
 - Explique el criterio de la integral
     
-    ![Untitled](_private/Images/Series%20numéricas%20de%20términos%20positivos/Untitled%208.png)
+    ![Untitled](Images/Series%20numéricas%20de%20términos%20positivos/Untitled%208.png)
     
-    ![Untitled](_private/Images/Series%20numéricas%20de%20términos%20positivos/Untitled%209.png)
+    ![Untitled](Images/Series%20numéricas%20de%20términos%20positivos/Untitled%209.png)
     
     - La integral y la serie tendrán el mismo comportamiento.
     

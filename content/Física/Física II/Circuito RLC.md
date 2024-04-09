@@ -3,11 +3,11 @@ Date: February 13, 2023 12:35 PM
 Status: Done
 Year: 2022
 
-![Untitled](_private/Images/Circuito%20RLC/Untitled.png)
+![Untitled](Images/Circuito%20RLC/Untitled.png)
 
-![Untitled](_private/Images/Circuito%20RLC/Untitled%201.png)
+![Untitled](Images/Circuito%20RLC/Untitled%201.png)
 
-![Untitled](_private/Images/Circuito%20RLC/Untitled%202.png)
+![Untitled](Images/Circuito%20RLC/Untitled%202.png)
 
 Realizando ley de mallas de Kirchhoff
 

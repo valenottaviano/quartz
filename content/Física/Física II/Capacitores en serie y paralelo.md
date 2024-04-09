@@ -3,4 +3,4 @@ Date: February 13, 2023 11:56 AM
 Status: Done
 Year: 2022
 
-![Untitled](_private/Images/Capacitores%20en%20serie%20y%20paralelo/Untitled.png)
+![Untitled](Images/Capacitores%20en%20serie%20y%20paralelo/Untitled.png)

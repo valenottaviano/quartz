@@ -5,7 +5,7 @@ Year: 2022
 
 ## 3.1.2 Movimiento de partículas en campos magnéticos
 
-![Untitled](_private/Images/Movimiento%20de%20partículas%20en%20campos%20magnéticos/Untitled.png)
+![Untitled](Images/Movimiento%20de%20partículas%20en%20campos%20magnéticos/Untitled.png)
 
 - Tenemos un campo magnético $\vec{B}$ que es perpendicular a la carga, y una velocidad la cual empieza a cambiar de forma radial, por la fuerza magnética
     
@@ -20,4 +20,4 @@ Year: 2022
 
 Cuando la velocidad no es perpendicular con el campo, el movimiento se vuelve un poco más complicado, de forma helicoidal. Es una combinación entre MRU y MCU
 
-![Untitled](_private/Images/Movimiento%20de%20partículas%20en%20campos%20magnéticos/Untitled%201.png)
+![Untitled](Images/Movimiento%20de%20partículas%20en%20campos%20magnéticos/Untitled%201.png)

@@ -4,6 +4,6 @@ Date: February 13, 2023 3:01 PM
 Status: Done
 Year: 2022
 
-![Untitled](_private/Images/Continuidad%20en%20función%20de%20dos%20variables/Untitled.png)
+![Untitled](Images/Continuidad%20en%20función%20de%20dos%20variables/Untitled.png)
 
-![Untitled](_private/Images/Continuidad%20en%20función%20de%20dos%20variables/Untitled%201.png)
+![Untitled](Images/Continuidad%20en%20función%20de%20dos%20variables/Untitled%201.png)

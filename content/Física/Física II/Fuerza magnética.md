@@ -18,7 +18,7 @@ $$
 
 Por lo tanto, por definición de producto vectorial
 
-![Untitled](_private/Images/Fuerza%20magnética/Untitled.png)
+![Untitled](Images/Fuerza%20magnética/Untitled.png)
 
 $$
 ||F||=|q|vB\sin\phi
@@ -32,7 +32,7 @@ $$
 
 - Si el ángulo entre los vectores velocidad y campo son paralelos, la carga no sufrirá ninguna fuerza.
 
-![Untitled](_private/Images/Fuerza%20magnética/Untitled%201.png)
+![Untitled](Images/Fuerza%20magnética/Untitled%201.png)
 
 [[Fuerza magnética sobre los conductores]]
 [[Movimiento de partículas en campos magnéticos]]

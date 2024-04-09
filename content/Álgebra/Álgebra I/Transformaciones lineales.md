@@ -22,21 +22,21 @@ Course: [[Algebra I]]
 	- Para cualquier vector $\vec{v}$ en $\mathbb{R}^n$, la transformación de reflexión $T_P(\vec{v})$ es el vector resultante de reflejar $\vec{v}$ con respecto al plano $P$.
 
 - Definición de transformación de rotación
-    Para cualquier vector $\vec{v}$ en $\mathbb{R}^n$, la transformación de rotación $T_{P,\theta}(\vec{v})$ es el vector resultante de rotar $\vec{v}$ alrededor del punto fijo $P$ en un ángulo $\theta$.![Untitled](_private/Images/Transformaciones%20lineales/Untitled%206.png)
+    Para cualquier vector $\vec{v}$ en $\mathbb{R}^n$, la transformación de rotación $T_{P,\theta}(\vec{v})$ es el vector resultante de rotar $\vec{v}$ alrededor del punto fijo $P$ en un ángulo $\theta$.![Untitled](Images/Transformaciones%20lineales/Untitled%206.png)
 
-- Definición de transformación de proyección en R3![Untitled](_private/Images/Transformaciones%20lineales/Untitled%207.png)
+- Definición de transformación de proyección en R3![Untitled](Images/Transformaciones%20lineales/Untitled%207.png)
 
-- Definición de operador de transposición    ![Untitled](_private/Images/Transformaciones%20lineales/Untitled%208.png)
+- Definición de operador de transposición    ![Untitled](Images/Transformaciones%20lineales/Untitled%208.png)
 
-- Definición de operador diferencial![Untitled](_private/Images/Transformaciones%20lineales/Untitled%209.png)
+- Definición de operador diferencial![Untitled](Images/Transformaciones%20lineales/Untitled%209.png)
 
-- Definición de operador integral![Untitled](_private/Images/Transformaciones%20lineales/Untitled%2010.png)
+- Definición de operador integral![Untitled](Images/Transformaciones%20lineales/Untitled%2010.png)
 
-- Condición necesaria para transformación lineal![Untitled](_private/Images/Transformaciones%20lineales/Untitled%2011.png)
+- Condición necesaria para transformación lineal![Untitled](Images/Transformaciones%20lineales/Untitled%2011.png)
 
-- Propiedades de la transformación lineal![Untitled](_private/Images/Transformaciones%20lineales/Untitled%2012.png)
+- Propiedades de la transformación lineal![Untitled](Images/Transformaciones%20lineales/Untitled%2012.png)
 
-- Teorema existencia de la transformación lineal![Untitled](_private/Images/Transformaciones%20lineales/Untitled%2013.png)
+- Teorema existencia de la transformación lineal![Untitled](Images/Transformaciones%20lineales/Untitled%2013.png)
 
 - Teorema matriz asociada a la transformación
     El teorema de la matriz asociada a una transformación lineal establece que toda transformación lineal $T: V \rightarrow W$ se puede representar mediante una matriz $A$ de tamaño $m \times n$, donde $m$ es la dimensión del espacio vectorial de llegada $W$ y $n$ es la dimensión del espacio vectorial de partida $V$. La matriz $A$ se llama matriz asociada a la transformación lineal $T$ y se define como sigue:
@@ -47,12 +47,12 @@ Course: [[Algebra I]]
 	- El kernel de una transformación lineal $T: V \rightarrow W$ es el conjunto de todos los vectores en el espacio vectorial de partida $V$ que se transforman en el vector nulo del espacio vectorial de llegada $W$. Formalmente, el kernel de $T$ se define como $\operatorname{ker}(T) = {\vec{v} \in V : T(\vec{v}) = \vec{0}}$.
 	- La imagen de una transformación lineal $T: V \rightarrow W$ es el conjunto de todos los vectores en el espacio vectorial de llegada $W$ que se pueden obtener mediante la transformación lineal. Formalmente, la imagen de $T$ se define como $\operatorname{im}(T) = {\vec{w} \in W : \vec{w} = T(\vec{v}) \text{ para algún } \vec{v} \in V}$.
    
-- Proposición del kernel e imagen como un subespacio![Untitled](_private/Images/Transformaciones%20lineales/Untitled%2016.png)![Untitled](_private/Images/Transformaciones%20lineales/Untitled%2017.png)
+- Proposición del kernel e imagen como un subespacio![Untitled](Images/Transformaciones%20lineales/Untitled%2016.png)![Untitled](Images/Transformaciones%20lineales/Untitled%2017.png)
 
-- Definición de nulidad y rango de una transformación![Untitled](_private/Images/Transformaciones%20lineales/Untitled%2018.png)
+- Definición de nulidad y rango de una transformación![Untitled](Images/Transformaciones%20lineales/Untitled%2018.png)
 
-- Teorema de las dimensiones![Untitled](_private/Images/Transformaciones%20lineales/Untitled%2019.png)
+- Teorema de las dimensiones![Untitled](Images/Transformaciones%20lineales/Untitled%2019.png)
 
-- Teorema: Matriz asociada a una transformación lineal con respecto a las bases canónicas![Untitled](_private/Images/Transformaciones%20lineales/Untitled%2020.png)  ![Untitled](_private/Images/Transformaciones%20lineales/Untitled%2021.png)
+- Teorema: Matriz asociada a una transformación lineal con respecto a las bases canónicas![Untitled](Images/Transformaciones%20lineales/Untitled%2020.png)  ![Untitled](Images/Transformaciones%20lineales/Untitled%2021.png)
 
-- Uso de la matriz asociada para la determinación del núcleo e imagen de la transformación![Untitled](_private/Images/Transformaciones%20lineales/Untitled%2022.png)
+- Uso de la matriz asociada para la determinación del núcleo e imagen de la transformación![Untitled](Images/Transformaciones%20lineales/Untitled%2022.png)

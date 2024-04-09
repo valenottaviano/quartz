@@ -12,7 +12,7 @@ Year: 2022
     0\leq r\leq \infty\\0\leq \varphi\leq 2\pi\\-\infty < z < \infty
     $$
     
-    ![Untitled](_private/Images/Integrales%20triples%20en%20coordenadas%20cilíndricas/Untitled.png)
+    ![Untitled](Images/Integrales%20triples%20en%20coordenadas%20cilíndricas/Untitled.png)
     
     Quedan definidas las coordenadas polares como la función que realiza el siguiente mapeo
     
@@ -22,7 +22,7 @@ Year: 2022
     g:[0,\infty)\times[0,2\pi]\times(-\infty,\infty)\sub \mathbb{R^3}\rightarrow \mathbb{R^3}\\(r,\varphi,z)\mapsto (r\cos\varphi, r\sin\varphi,z)
     $$
     
-    ![Untitled](_private/Images/Integrales%20triples%20en%20coordenadas%20cilíndricas/Untitled%201.png)
+    ![Untitled](Images/Integrales%20triples%20en%20coordenadas%20cilíndricas/Untitled%201.png)
     
 - Cómo es la aplicación de coordenadas cilíndricas con respecto al eje OZ?
     - También, podemos definir esta aplicación con respecto a los otros ejes. Proyectándolo en distintos planos
@@ -47,7 +47,7 @@ Year: 2022
     \iiint_{D=g(D')}f(x,y,z)\enspace dxdydz=\iiint_{D'}f(r\cos\varphi,r\sin\varphi,z)\enspace r\enspace drd\varphi dz
     $$
     
-    ![Untitled](_private/Images/Integrales%20triples%20en%20coordenadas%20cilíndricas/Untitled%202.png)
+    ![Untitled](Images/Integrales%20triples%20en%20coordenadas%20cilíndricas/Untitled%202.png)
     
     - Existe una relación entre las coordenadas rectangulares y cilíndricas. Dado un punto en cualquiera de las coordenadas, puedo transformarla al otro tipo.
 

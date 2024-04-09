@@ -18,20 +18,20 @@ Year: 2022
     $$
     
 
-![Untitled](_private/Images/Circuito%20Capacitivo-Resistivo/Untitled.png)
+![Untitled](Images/Circuito%20Capacitivo-Resistivo/Untitled.png)
 
 ### 2.2.1 Proceso de carga del capacitor
 
-![Untitled](_private/Images/Circuito%20Capacitivo-Resistivo/Untitled%201.png)
+![Untitled](Images/Circuito%20Capacitivo-Resistivo/Untitled%201.png)
 
 - El hecho de que exista una resistencia, hace que el proceso de carga de un capacitor no sea instantáneo.
 - Definimos la carga en función de la capacitancia $q=C\varepsilon$
 - En t=0, cierro el interruptor. Cómo se comporta la carga?
     
-    ![Untitled](_private/Images/Circuito%20Capacitivo-Resistivo/Untitled%202.png)
+    ![Untitled](Images/Circuito%20Capacitivo-Resistivo/Untitled%202.png)
     
 
-![Untitled](_private/Images/Circuito%20Capacitivo-Resistivo/Untitled%203.png)
+![Untitled](Images/Circuito%20Capacitivo-Resistivo/Untitled%203.png)
 
 - Constante de tiempo en un circuito RC
     - Es una medida de la rapidez con la cual se carga un capacitor
@@ -60,11 +60,11 @@ Year: 2022
     $$
     
 
-![Untitled](_private/Images/Circuito%20Capacitivo-Resistivo/Untitled%202.png)
+![Untitled](Images/Circuito%20Capacitivo-Resistivo/Untitled%202.png)
 
 Para obtener distintos valores de $\tau$ , reemplazamos por $nRC$
 
-![Untitled](_private/Images/Circuito%20Capacitivo-Resistivo/Untitled%204.png)
+![Untitled](Images/Circuito%20Capacitivo-Resistivo/Untitled%204.png)
 
 - En la realidad, para un tiempo de $5\tau$ ya consideramos que el capacitor se encuentra cargado.
 - Tensiones
@@ -95,9 +95,9 @@ Para obtener distintos valores de $\tau$ , reemplazamos por $nRC$
 
 ### 2.2.2 Proceso de descarga del capacitor
 
-![Untitled](_private/Images/Circuito%20Capacitivo-Resistivo/Untitled%205.png)
+![Untitled](Images/Circuito%20Capacitivo-Resistivo/Untitled%205.png)
 
-![Untitled](_private/Images/Circuito%20Capacitivo-Resistivo/Untitled%206.png)
+![Untitled](Images/Circuito%20Capacitivo-Resistivo/Untitled%206.png)
 
 - La carga en función del tiempo en el proceso de descarga
     

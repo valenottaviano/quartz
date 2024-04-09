@@ -14,15 +14,15 @@
 - Es un elemento no lineal, deja pasar los electrones en un sentido y los bloquea en el otro.
 - En el caso de que se llegue a polariza en el otro sentido, no hay paso de electrones en dicho sentido (idealmente)
 
-![Untitled | 300 ](_private/Images/Diodo%20semiconductor/Untitled.png)
+![Untitled | 300 ](Images/Diodo%20semiconductor/Untitled.png)
 
 - Está compuesto por un material semiconductor dopado por otros elementos que hacen que el diodo tenga una mayoría de carga positiva hacia un lado, y una mayoria de carga negativa hacia el otro.
 
-![Untitled](_private/Images/Diodo%20semiconductor/Untitled%201.png)
+![Untitled](Images/Diodo%20semiconductor/Untitled%201.png)
 
 ### Funcionamiento de un diodo
 
-![Untitled](_private/Images/Diodo%20semiconductor/Untitled%202.png)
+![Untitled](Images/Diodo%20semiconductor/Untitled%202.png)
 
 - Tensión vs corriente.
     - Cuando el diodo está polarizado directamente, podemos tomar con que no tiene resistencia (corriente máxima)
@@ -30,9 +30,9 @@
 - Diodo real
     - De manera real, al diodo lo podemos representar como un capacitor y una fuente de corriente.
     
-    ![Untitled](_private/Images/Diodo%20semiconductor/Untitled%203.png)
+    ![Untitled](Images/Diodo%20semiconductor/Untitled%203.png)
     
-    ![Untitled](_private/Images/Diodo%20semiconductor/Untitled%204.png)
+    ![Untitled](Images/Diodo%20semiconductor/Untitled%204.png)
     
     - $v_z$ es la tensión a partir del cual el diodo se rompe (rompemos el dieléctrico del capacitor) y la tensión vuelve a circular.
 
@@ -40,25 +40,25 @@
 
 - Nos sirve para rectificar la onda y poder convertirlas en señales contínuas.
 
-![Onda generada por la fuente (triangular)](_private/Images/Diodo%20semiconductor/Untitled%205.png)
+![Onda generada por la fuente (triangular)](Images/Diodo%20semiconductor/Untitled%205.png)
 
 Onda generada por la fuente (triangular)
 
 - Inserto un diodo que permita el paso de la tensión únicamente en un sentido
 
-![Untitled](_private/Images/Diodo%20semiconductor/Untitled%206.png)
+![Untitled](Images/Diodo%20semiconductor/Untitled%206.png)
 
-![Untitled](_private/Images/Diodo%20semiconductor/Untitled%207.png)
+![Untitled](Images/Diodo%20semiconductor/Untitled%207.png)
 
 - Circuito rectificador de media onda
 - En el caso de usar un diodo real
 
-![Untitled](_private/Images/Diodo%20semiconductor/Untitled%208.png)
+![Untitled](Images/Diodo%20semiconductor/Untitled%208.png)
 
-![Untitled](_private/Images/Diodo%20semiconductor/Untitled%209.png)
+![Untitled](Images/Diodo%20semiconductor/Untitled%209.png)
 
 ### Puente rectificador
 
-![Untitled](_private/Images/Diodo%20semiconductor/Untitled%2010.png)
+![Untitled](Images/Diodo%20semiconductor/Untitled%2010.png)
 
 [[Diodo Zenner]]

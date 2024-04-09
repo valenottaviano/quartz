@@ -12,7 +12,7 @@
 - Puede aguantar una tensión inversa más estable que un diodo común.
 - Los diodos zener, zener diodo o simplemente zener, son diodos que están diseñados para mantener un voltaje constante en su terminales, llamado Voltaje o Tensión Zener ($V_z$) cuando se polarizan inversamente, es decir cuando está el cátodo con una tensión positiva y el ánodo negativa.
 
-![Untitled | 400](_private/Images/Diodo%20Zenner/Untitled.png)
+![Untitled | 400](Images/Diodo%20Zenner/Untitled.png)
 
 - Un zener en conexión con polarización inversa siempre tiene la misma
 tensión en sus extremos (tensión zener).
@@ -26,7 +26,7 @@ tensión en sus extremos (tensión zener).
 
 - En todos los ejercicios, el objetivo suele ser el cálculo de la resistencia de polarización del Zener
 
-![Untitled | 400](_private/Images/Diodo%20Zenner/Untitled%201.png)
+![Untitled | 400](Images/Diodo%20Zenner/Untitled%201.png)
 
 $$
 I_{R_{pz}}=I_z
@@ -46,7 +46,7 @@ $$
 
 - En todos los ejercicios, el objetivo suele ser el cálculo de la resistencia de polarización del Zener
 
-![Untitled](_private/Images/Diodo%20Zenner/Untitled%202.png)
+![Untitled](Images/Diodo%20Zenner/Untitled%202.png)
 
 $$
 I_{R_{pz}}\neq I_z\\I_{R_{pz}}=I_z+I_L
@@ -70,7 +70,7 @@ $$
 
 **Tensión mínima**
 
-![Untitled](_private/Images/Diodo%20Zenner/Untitled%203.png)
+![Untitled](Images/Diodo%20Zenner/Untitled%203.png)
 
 $$
 R_{pz}=\dfrac{V_{s_{min}}-V_z}{I_{z_{min}}+I_L}
@@ -78,7 +78,7 @@ $$
 
 **Tensión máxima**
 
-![Untitled](_private/Images/Diodo%20Zenner/Untitled%204.png)
+![Untitled](Images/Diodo%20Zenner/Untitled%204.png)
 
 $$
 R_{pz}=\dfrac{V_{s_{max}}-V_z}{I_{z_{max}}+I_L}
@@ -96,4 +96,4 @@ $$
 P_{R_{pz}}=\dfrac{(V_s-V_z)^2}{I_{R_{pz}}}=\dfrac{(V_s-V_z)^2}{I_z+I_L}
 $$
 
-![Untitled](_private/Images/Diodo%20Zenner/Untitled%205.png)
+![Untitled](Images/Diodo%20Zenner/Untitled%205.png)

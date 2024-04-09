@@ -6,9 +6,9 @@ $$\sum F_x=0$$$$\sum F_y=0$$
 $$f_r = \mu N$$
 - Defina la fuerza de Hooke
   $$F_k = k\times \Delta L$$
-- Determine la constante equivalente en resortes en serie    ![Untitled](_private/Images/Física%20Estática/Untitled%203.png)
+- Determine la constante equivalente en resortes en serie    ![Untitled](Images/Física%20Estática/Untitled%203.png)
 
-- Determine la constante equivalente en resortes en paralelo![Untitled](_private/Images/Física%20Estática/Untitled%204.png)
+- Determine la constante equivalente en resortes en paralelo![Untitled](Images/Física%20Estática/Untitled%204.png)
 
 - Defina esfuerzo en un cuerpo
 $$\sigma = \dfrac{F}{S}$$

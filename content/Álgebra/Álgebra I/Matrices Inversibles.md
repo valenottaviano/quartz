@@ -36,7 +36,7 @@ $$A(BB^{-1}) = I_n$$
 Por lo tanto, se tiene que $B^{-1} = A^{-1}$. Esto demuestra que si una matriz cuadrada $A$ tiene una inversa, entonces esa inversa es única.
 
 
-- Propiedades de una matriz inversible![Matrices%20Inversibles/Untitled%204.png](_private/Images/Matrices%20Inversibles/Untitled%204.png)
+- Propiedades de una matriz inversible![Matrices%20Inversibles/Untitled%204.png](Images/Matrices%20Inversibles/Untitled%204.png)
 
 ## Operaciones elementales de filas
 - Intercambiar dos filas: Se puede intercambiar cualquier par de filas de la matriz. Esta operación se denota por $F_i \leftrightarrow F_j$, donde $F_i$ y $F_j$ son las filas que se intercambian.
@@ -47,11 +47,11 @@ Por lo tanto, se tiene que $B^{-1} = A^{-1}$. Esto demuestra que si una matriz c
 	Una matriz elemental es una matriz que se obtiene a partir de la matriz identidad mediante la aplicación de una operación elemental de filas. Es decir, una matriz elemental es una matriz que se obtiene al realizar una sola operación elemental de filas en la matriz identidad.
 
 
-- Teorema relación entre operaciones elementales y matrices elementales    ![Matrices%20Inversibles/Untitled%208.png](_private/Images/Matrices%20Inversibles/Untitled%208.png)
+- Teorema relación entre operaciones elementales y matrices elementales    ![Matrices%20Inversibles/Untitled%208.png](Images/Matrices%20Inversibles/Untitled%208.png)
 
-- Definición de equivalencia por filas![Matrices%20Inversibles/Untitled%209.png](_private/Images/Matrices%20Inversibles/Untitled%209.png)
+- Definición de equivalencia por filas![Matrices%20Inversibles/Untitled%209.png](Images/Matrices%20Inversibles/Untitled%209.png)
 
-- Teorema las matrices elementales son inversibles![Matrices%20Inversibles/Untitled%2010.png](_private/Images/Matrices%20Inversibles/Untitled%2010.png)![Matrices%20Inversibles/Untitled%2011.png](_private/Images/Matrices%20Inversibles/Untitled%2011.png)
+- Teorema las matrices elementales son inversibles![Matrices%20Inversibles/Untitled%2010.png](Images/Matrices%20Inversibles/Untitled%2010.png)![Matrices%20Inversibles/Untitled%2011.png](Images/Matrices%20Inversibles/Untitled%2011.png)
 
 - Definición de matriz escalon reducida por filas
 	Una matriz escalonada reducida por filas es una matriz que cumple las siguientes condiciones:
@@ -61,8 +61,8 @@ Por lo tanto, se tiene que $B^{-1} = A^{-1}$. Esto demuestra que si una matriz c
 	Además, en una matriz escalonada reducida por filas, los pivotes están situados en posiciones cada vez más a la derecha de la matriz. Es decir, si el pivote de la fila $i$ está en la columna $j$, entonces el pivote de la fila $i+1$ está en una columna mayor que $j$.
 
 
-- Teorema equivalencia de las matrices reducidas por filas![Matrices%20Inversibles/Untitled%2013.png](_private/Images/Matrices%20Inversibles/Untitled%2013.png)
-- Definición de rango de una matriz![Matrices%20Inversibles/Untitled%2014.png](_private/Images/Matrices%20Inversibles/Untitled%2014.png)
+- Teorema equivalencia de las matrices reducidas por filas![Matrices%20Inversibles/Untitled%2013.png](Images/Matrices%20Inversibles/Untitled%2013.png)
+- Definición de rango de una matriz![Matrices%20Inversibles/Untitled%2014.png](Images/Matrices%20Inversibles/Untitled%2014.png)
 
-- Teorema 1er Teorema de las Equivalencias![Matrices%20Inversibles/Untitled%2015.png](_private/Images/Matrices%20Inversibles/Untitled%2015.png)
-- Algoritmo para determinar A-1![Matrices%20Inversibles/Untitled%2016.png](_private/Images/Matrices%20Inversibles/Untitled%2016.png)
+- Teorema 1er Teorema de las Equivalencias![Matrices%20Inversibles/Untitled%2015.png](Images/Matrices%20Inversibles/Untitled%2015.png)
+- Algoritmo para determinar A-1![Matrices%20Inversibles/Untitled%2016.png](Images/Matrices%20Inversibles/Untitled%2016.png)

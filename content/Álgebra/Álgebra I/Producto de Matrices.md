@@ -14,7 +14,7 @@ Year: 2021
 	- **Existencia de elemento neutro:** No existe una matriz que actúe como elemento neutro para el producto de matrices. Es decir, no existe una matriz $O$ tal que $AO = OA = A$ para cualquier matriz $A$ que tenga tamaños compatibles para el producto.
 	- **No conmutatividad:** El producto de matrices no es conmutativo, es decir, en general $AB \neq BA$ para cualquier par de matrices $A$ y $B$ que tengan tamaños compatibles para el producto.
 
-- **Propiedades** del **producto y la transpuesta**![Producto%20de%20Matrices/Untitled%206.png](_private/Images/Producto%20de%20Matrices/Untitled%206.png)![Producto%20de%20Matrices/Untitled%207.png](_private/Images/Producto%20de%20Matrices/Untitled%207.png)
+- **Propiedades** del **producto y la transpuesta**![Producto%20de%20Matrices/Untitled%206.png](Images/Producto%20de%20Matrices/Untitled%206.png)![Producto%20de%20Matrices/Untitled%207.png](Images/Producto%20de%20Matrices/Untitled%207.png)
 
 - Definición de **potencia de matrices**
     La potencia de una matriz es una operación que se realiza elevando una matriz a un exponente entero no negativo. Formalmente, si $A$ es una matriz cuadrada de tamaño $n \times n$ y $k$ es un entero no negativo, entonces la potencia $k$ de $A$, denotada por $A^k$, es una matriz de tamaño $n \times n$ cuyos elementos se calculan como sigue:

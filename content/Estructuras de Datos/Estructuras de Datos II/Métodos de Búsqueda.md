@@ -21,7 +21,7 @@
 - La forma más simple de los métodos de búsqueda, inicia en el principio hasta el final.
 - No necesito ningún criterio de ordenamiento previo a la búsqueda
 
-![Untitled](_private/Images/Métodos%20de%20Búsqueda/Untitled.png)
+![Untitled](Images/Métodos%20de%20Búsqueda/Untitled.png)
 
 1.- Empezar con el primer elemento de la lista e inicializar la variable que servirá de bandera.
 
@@ -51,22 +51,22 @@
 - Hash es un métodos para transformar claves.
 - El método de transformación de claves consiste en convertir la clave dada (numérica o alfanumérica) en una dirección (índice) dentro de un array. La correspondencia entre las claves y la dirección en el medio de almacenamiento o en el array se establece por una función de conversión (función HASH)
 
-![Untitled](_private/Images/Métodos%20de%20Búsqueda/Untitled%201.png)
+![Untitled](Images/Métodos%20de%20Búsqueda/Untitled%201.png)
 
 ## Métodos Hashing
 
 ### Función Truncamiento
 
-![Untitled](_private/Images/Métodos%20de%20Búsqueda/Untitled%202.png)
+![Untitled](Images/Métodos%20de%20Búsqueda/Untitled%202.png)
 
-![Untitled](_private/Images/Métodos%20de%20Búsqueda/Untitled%203.png)
+![Untitled](Images/Métodos%20de%20Búsqueda/Untitled%203.png)
 
 ### Función Plegamiento
 
-![Untitled](_private/Images/Métodos%20de%20Búsqueda/Untitled%204.png)
+![Untitled](Images/Métodos%20de%20Búsqueda/Untitled%204.png)
 
-![Untitled](_private/Images/Métodos%20de%20Búsqueda/Untitled%205.png)
+![Untitled](Images/Métodos%20de%20Búsqueda/Untitled%205.png)
 
 ### Función Mitad del Cuadrado
 
-![Untitled](_private/Images/Métodos%20de%20Búsqueda/Untitled%206.png)
+![Untitled](Images/Métodos%20de%20Búsqueda/Untitled%206.png)

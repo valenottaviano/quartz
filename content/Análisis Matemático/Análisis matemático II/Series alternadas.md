@@ -75,6 +75,6 @@ Year: 2022
         
     3. Si $\lim _{n\rightarrow \infty}n\sqrt{|a_n|}=1$ el criterio no decide
     
-    ![Untitled](_private/Images/Series%20alternadas/Untitled.png)
+    ![Untitled](Images/Series%20alternadas/Untitled.png)
 
 

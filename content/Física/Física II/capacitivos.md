@@ -3,7 +3,7 @@ Date: February 13, 2023 12:28 PM
 Status: Done
 Year: 2022
 
-![Untitled](_private/Images/Circuitos%20inductivos-capacitivos/Untitled.png)
+![Untitled](Images/Circuitos%20inductivos-capacitivos/Untitled.png)
 
 Aplicando Kirchhoff
 
@@ -53,11 +53,11 @@ $$
 \omega'=\sqrt{\dfrac{1}{LC}-\dfrac{R^2}{4L^2}}
 $$
 
-![Untitled](_private/Images/Circuitos%20inductivos-capacitivos/Untitled%201.png)
+![Untitled](Images/Circuitos%20inductivos-capacitivos/Untitled%201.png)
 
-![Untitled](_private/Images/Circuitos%20inductivos-capacitivos/Untitled%202.png)
+![Untitled](Images/Circuitos%20inductivos-capacitivos/Untitled%202.png)
 
-![Untitled](_private/Images/Circuitos%20inductivos-capacitivos/Untitled%203.png)
+![Untitled](Images/Circuitos%20inductivos-capacitivos/Untitled%203.png)
 
 
 

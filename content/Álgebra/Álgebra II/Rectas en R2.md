@@ -19,6 +19,6 @@ donde $t$ es un parámetro que varía en el conjunto de números reales. Esta ec
 
 - Ecuación continua de la recta en R2$$\dfrac{x-x_0}{u_x}=\dfrac{y-y_0}{u_y}$$
 
-- Distancia de un punto a una recta en R2 ![Untitled](_private/Images/Rectas%20en%20R2/Untitled%205.png)![Untitled | 200](_private/Images/Rectas%20en%20R2/Untitled%206.png)
+- Distancia de un punto a una recta en R2 ![Untitled](Images/Rectas%20en%20R2/Untitled%205.png)![Untitled | 200](Images/Rectas%20en%20R2/Untitled%206.png)
   
-- Distancia entre dos rectas en R2![Untitled](_private/Images/Rectas%20en%20R2/Untitled%207.png)
+- Distancia entre dos rectas en R2![Untitled](Images/Rectas%20en%20R2/Untitled%207.png)

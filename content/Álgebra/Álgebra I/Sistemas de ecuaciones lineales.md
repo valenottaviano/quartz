@@ -17,13 +17,13 @@ Course: [[Algebra I]]
 - Definición de **solución del sistema**
     Una solución del sistema de ecuaciones $A\vec{x} = \vec{b}$ es un vector $\vec{x}$ que, al ser sustituido en las ecuaciones del sistema, hace que todas las ecuaciones sean verdaderas. En otras palabras, una solución del sistema de ecuaciones es un conjunto de valores para las variables que hacen que todas las ecuaciones del sistema sean verdaderas simultáneamente.![[Pasted image 20231029171913.png]]
 
-- Definición de **conjunto solución**![Untitled](_private/Images/Sistemas%20de%20ecuaciones%20lineales/Untitled%205.png)
+- Definición de **conjunto solución**![Untitled](Images/Sistemas%20de%20ecuaciones%20lineales/Untitled%205.png)
 
-- Definición de sistema **compatible e incompatible**    ![Untitled](_private/Images/Sistemas%20de%20ecuaciones%20lineales/Untitled%206.png)
+- Definición de sistema **compatible e incompatible**    ![Untitled](Images/Sistemas%20de%20ecuaciones%20lineales/Untitled%206.png)
 
 - Teorema los sistemas Homogéneos siempre tienen solución![[Pasted image 20231029171946.png]]
 
-- Definición de **equivalencia** entre sistemas![Untitled](_private/Images/Sistemas%20de%20ecuaciones%20lineales/Untitled%208.png)![Untitled](_private/Images/Sistemas%20de%20ecuaciones%20lineales/Untitled%209.png)
+- Definición de **equivalencia** entre sistemas![Untitled](Images/Sistemas%20de%20ecuaciones%20lineales/Untitled%208.png)![Untitled](Images/Sistemas%20de%20ecuaciones%20lineales/Untitled%209.png)
 
 - Algoritmo de **Gauss Jordan** para resolver un sistema lineal
 	1. Escribir el sistema de ecuaciones en forma matricial $A\vec{x} = \vec{b}$.

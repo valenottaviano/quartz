@@ -28,6 +28,6 @@ Si una función $f$ tiene límites distintos a lo largo de dos trayectorias dife
 - Poderes: $\lim\limits_{(x,y)\to (x_0,y_0)} f(x,y)^n = L^n$
 
 
-![Untitled](_private/Images/Definición%20formal%20de%20límite/Untitled.png)
+![Untitled](Images/Definición%20formal%20de%20límite/Untitled.png)
 
-![Untitled](_private/Images/Definición%20formal%20de%20límite/Untitled%201.png)
+![Untitled](Images/Definición%20formal%20de%20límite/Untitled%201.png)

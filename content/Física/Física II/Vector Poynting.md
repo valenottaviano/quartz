@@ -3,7 +3,7 @@ Date: February 13, 2023 12:38 PM
 Status: Done
 Year: 2022
 
-![Untitled](_private/Images/Vector%20Poynting/Untitled.png)
+![Untitled](Images/Vector%20Poynting/Untitled.png)
 
 $$
 \vec{S}=\dfrac{1}{\mu_0}\vec{E}\times\vec{B}

@@ -58,15 +58,15 @@ donde todos los elementos de la matriz $C$ son cero. Las matrices nulas se utili
 - Producto de un **escalar por una matriz**
     El producto de un escalar por una matriz es una operación que se realiza multiplicando cada elemento de la matriz por el escalar. Formalmente, si $\alpha$ es un escalar y $A$ es una matriz de tamaño $m \times n$, entonces el producto de $\alpha$ por $A$, denotado por $\alpha A$, es una matriz de tamaño $m \times n$ cuyos elementos se calculan como sigue: $$(\alpha A)_{ij} = \alpha a_{ij}$$	para todo $i = 1, 2, ..., m$ y todo $j = 1, 2, ..., n$. Es decir, el elemento $(i,j)$ de la matriz $\alpha A$ es el producto del escalar $\alpha$ por el elemento $(i,j)$ de la matriz $A$.
 
-- **Propiedades** de las **operaciones** de matrices![Matrices/Untitled%208.png](_private/Images/Matrices/Untitled%208.png)
+- **Propiedades** de las **operaciones** de matrices![Matrices/Untitled%208.png](Images/Matrices/Untitled%208.png)
 
 - Definición de **matriz transpuesta**
     La matriz transpuesta de una matriz $A$ es una matriz que se obtiene intercambiando las filas por las columnas de $A$. Formalmente, si $A$ es una matriz de tamaño $m \times n$, entonces la matriz transpuesta de $A$, denotada por $A^T$, es una matriz de tamaño $n \times m$ cuyos elementos se calculan como sigue:$$(A^T)_{ij} = a_{ji}$$para todo $i = 1, 2, ..., n$ y todo $j = 1, 2, ..., m$. Es decir, el elemento $(i,j)$ de la matriz transpuesta $A^T$ es el elemento $(j,i)$ de la matriz $A$
 
-- **Propiedades** de la matriz **transpuesta**![Matrices/Untitled%2010.png](_private/Images/Matrices/Untitled%2010.png)
+- **Propiedades** de la matriz **transpuesta**![Matrices/Untitled%2010.png](Images/Matrices/Untitled%2010.png)
 
 - Demostración de las propiedades de la matriz transpuesta
-    ![Matrices/Untitled%2011.png](_private/Images/Matrices/Untitled%2011.png)
+    ![Matrices/Untitled%2011.png](Images/Matrices/Untitled%2011.png)
 
 - Definición de **matriz diagonal**
     Una matriz diagonal es una matriz cuadrada en la que todos los elementos fuera de la diagonal principal son cero. Formalmente, si $A$ es una matriz cuadrada de tamaño $n \times n$, entonces $A$ es una matriz diagonal si y solo si se cumple que $a_{ij} = 0$ para todo $i \neq j$. La diagonal principal de una matriz diagonal es la secuencia de elementos que van desde la esquina superior izquierda hasta la esquina inferior derecha de la matriz. Los elementos de la diagonal principal de una matriz diagonal se denominan elementos diagonales y se denotan por $a_{11}, a_{22}, ..., a_{nn}$.

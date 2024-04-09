@@ -20,4 +20,4 @@ $$
 
 - Si integramos $\vec{dF}$ para todos los $dl$ de un conductor, obtenemos la fuerza magnética del conductor completo
 
-![Untitled](_private/Images/Fuerza%20magnética%20sobre%20los%20conductores/Untitled.png)
+![Untitled](Images/Fuerza%20magnética%20sobre%20los%20conductores/Untitled.png)

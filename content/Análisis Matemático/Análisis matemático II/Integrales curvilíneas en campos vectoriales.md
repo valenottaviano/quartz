@@ -40,7 +40,7 @@ Year: 2022
     
     Además, si $\gamma$ es regular a trozos, también podemos integrar de la siguiente manera
     
-    ![Untitled](_private/Images/Integrales%20curvilíneas%20en%20campos%20vectoriales/Untitled.png)
+    ![Untitled](Images/Integrales%20curvilíneas%20en%20campos%20vectoriales/Untitled.png)
     
 - Cuál es la interpretación física de la integral curvilínea en campo vectorial?
     - Si $\vec{F}$ es un campo de fuerza continuo definido en $\gamma$ curva regular y simple, la $\int_\gamma \vec{F}\cdot\vec{v} \enspace ds$ representa el trabajo realizado por el campo $\vec{F}$ para mover una partícula unida a lo largo de $\gamma$
@@ -62,7 +62,7 @@ Year: 2022
         \int_\gamma\vec{F}\cdot\vec{v}\enspace ds=-\int_{-\gamma}\vec{F}\cdot\vec{v}\enspace ds
         $$
         
-        ![Untitled](_private/Images/Integrales%20curvilíneas%20en%20campos%20vectoriales/Untitled%201.png)
+        ![Untitled](Images/Integrales%20curvilíneas%20en%20campos%20vectoriales/Untitled%201.png)
         
 - Enuncie y demuestre el teorema de Gauss-Green
     

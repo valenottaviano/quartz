@@ -28,22 +28,22 @@ Year: 2022
         - No existe recursividad en herencia.
     - Una clase puede tener cualquier número de subclases.
         
-        ![Untitled](_private/Images/Herencia%20en%20POO/Untitled.png)
+        ![Untitled](Images/Herencia%20en%20POO/Untitled.png)
         
 - Qué tipos de herencia existen en Java?
     
     Una clase sólo puede tener una única superclase.
     
-    ![Untitled](_private/Images/Herencia%20en%20POO/Untitled%201.png)
+    ![Untitled](Images/Herencia%20en%20POO/Untitled%201.png)
     
-    ![Untitled](_private/Images/Herencia%20en%20POO/Untitled%202.png)
+    ![Untitled](Images/Herencia%20en%20POO/Untitled%202.png)
     
     - En Java el constructor no se hereda
 - Qué son las clases abstractas?
     - Una clase abstracta contiene uno o más métodos abstractos.
     - La clase concreta, debe implementar todos los métodos de las clases abstractas.
     
-    ![Untitled](_private/Images/Herencia%20en%20POO/Untitled%203.png)
+    ![Untitled](Images/Herencia%20en%20POO/Untitled%203.png)
     
 - Qué es una interface?
     - Un interface es una descripción de comportamiento

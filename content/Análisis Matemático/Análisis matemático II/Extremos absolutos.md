@@ -5,4 +5,4 @@ Date: February 13, 2023 7:55 PM
 Status: Done
 Year: 2022
 
-![Untitled](_private/Images/Extremo%20absoluto/Untitled.png)
+![Untitled](Images/Extremo%20absoluto/Untitled.png)

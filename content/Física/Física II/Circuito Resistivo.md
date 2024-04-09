@@ -5,7 +5,7 @@ Year: 2022
 
 ## 2.1 Circuito Resistivo
 
-![Untitled](_private/Images/Circuito%20Resistivo/Untitled.png)
+![Untitled](Images/Circuito%20Resistivo/Untitled.png)
 
 **Resistencias en Circuitos**
 

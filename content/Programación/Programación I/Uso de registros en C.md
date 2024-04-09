@@ -6,16 +6,16 @@ Year: 2021
 
 - Defina registro
     
-    ![Untitled](_private/Images/Uso%20de%20registros%20en%20C/Untitled.png)
+    ![Untitled](Images/Uso%20de%20registros%20en%20C/Untitled.png)
     
 - Estructura de la información en un registro
     
-    ![Untitled](_private/Images/Uso%20de%20registros%20en%20C/Untitled%201.png)
+    ![Untitled](Images/Uso%20de%20registros%20en%20C/Untitled%201.png)
     
 - Sintáxis de definición de un registro
     
-    ![Untitled](_private/Images/Uso%20de%20registros%20en%20C/Untitled%202.png)
+    ![Untitled](Images/Uso%20de%20registros%20en%20C/Untitled%202.png)
     
 - Definición de arreglo de registros
     
-    ![Untitled](_private/Images/Uso%20de%20registros%20en%20C/Untitled%203.png)
+    ![Untitled](Images/Uso%20de%20registros%20en%20C/Untitled%203.png)
