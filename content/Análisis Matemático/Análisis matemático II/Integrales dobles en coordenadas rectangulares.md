@@ -10,7 +10,7 @@ Year: 2022
     
     Sea $\pi$ una partición de $R$ que determina $n=pq$ rectángulos parciales $R_k = \forall k =1,\dots , n$ con areas $A(R_k)$
     
-    ![Untitled](Images/Integrales%20dobles%20en%20coordenadas%20rectangulares/Untitled.png)
+    ![Untitled](_private/Images/Integrales%20dobles%20en%20coordenadas%20rectangulares/Untitled.png)
     
     Se denomina *Suma de Riemann de la función f relativa a la partición $\pi$ de* $R$
     
@@ -40,7 +40,7 @@ Year: 2022
     
     Toda función real de dos variables reales continua en un rectángulo de $R^2$ es integrable en él.
     
-    ![Untitled](Images/Integrales%20dobles%20en%20coordenadas%20rectangulares/Untitled%201.png)
+    ![Untitled](_private/Images/Integrales%20dobles%20en%20coordenadas%20rectangulares/Untitled%201.png)
     
 - Defina las **propiedades** de las integrales dobles
     1. Linealidad
@@ -93,7 +93,7 @@ Year: 2022
     
     Una región D contenida en $R^2$ es **simple** sii toda paralela a los ejes coordenados intercepta a la frontera de D en a los sumo dos puntos, o en los puntos del segmento rectilíneo de la frontera.
     
-    ![Untitled](Images/Integrales%20dobles%20en%20coordenadas%20rectangulares/Untitled%202.png)
+    ![Untitled](_private/Images/Integrales%20dobles%20en%20coordenadas%20rectangulares/Untitled%202.png)
     
 - Enuncie el **Teorema de Fubini**
     
@@ -107,7 +107,7 @@ Year: 2022
     \iint_D f(P)dxdy = \int_a^b  \int_{\alpha(x)}^{\beta(x)}f(x,y)dydx
     $$
     
-    ![Untitled](Images/Integrales%20dobles%20en%20coordenadas%20rectangulares/Untitled%203.png)
+    ![Untitled](_private/Images/Integrales%20dobles%20en%20coordenadas%20rectangulares/Untitled%203.png)
     
     Si $D=\left\lbrace (x,y) \in R^2, c\leq y\leq d, \varphi(y)\leq x\leq \phi(y) \right\rbrace$
     
@@ -119,7 +119,7 @@ Year: 2022
     \iint_D f(P)dxdy = \int_c^d  \int_{\varphi(y)}^{\phi(y)}f(x,y)dydx
     $$
     
-    ![Untitled](Images/Integrales%20dobles%20en%20coordenadas%20rectangulares/Untitled%204.png)
+    ![Untitled](_private/Images/Integrales%20dobles%20en%20coordenadas%20rectangulares/Untitled%204.png)
     
     De los dos resultados anteriores, tenemos que:
     
@@ -150,7 +150,7 @@ Year: 2022
         \text{Vol}(T) = \iint_D[g(x,y)-h(x,y)]dxdy
         $$
         
-        ![Untitled](Images/Integrales%20dobles%20en%20coordenadas%20rectangulares/Untitled%205.png)
+        ![Untitled](_private/Images/Integrales%20dobles%20en%20coordenadas%20rectangulares/Untitled%205.png)
 
 
 

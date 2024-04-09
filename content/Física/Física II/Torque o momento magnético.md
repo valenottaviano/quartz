@@ -11,7 +11,7 @@ Sobre el lado opuesto, el ángulo entre el campo magnético $B$ y la longitud $l
 
 Por lo tanto $F'= lbB\sin(90\degree-\phi)$
 
-![Untitled](Images/Torque%20o%20momento%20magnético/Untitled.png)
+![Untitled](_private/Images/Torque%20o%20momento%20magnético/Untitled.png)
 
 <aside>
 💡 La fuerza total sobre la espira de corriente en un campo magnético uniforme es igual a cero. Sin embargo, el par de torsión neto en general no es igual a cero.
@@ -36,8 +36,8 @@ $$
 U=-\vec{\mu}\cdot\vec{B}=-\mu B \cos\phi
 $$
 
-![Untitled](Images/Torque%20o%20momento%20magnético/Untitled%201.png)
+![Untitled](_private/Images/Torque%20o%20momento%20magnético/Untitled%201.png)
 
-![Untitled](Images/Torque%20o%20momento%20magnético/Untitled%202.png)
+![Untitled](_private/Images/Torque%20o%20momento%20magnético/Untitled%202.png)
 
 [[Campo magnético a través de una superficie cerrada]]

@@ -30,7 +30,7 @@ donde $a_{ii}$ es el elemento de la diagonal principal de $A$ en la posición $(
 
 
 
-- Propiedades del Determinante y las operaciones elementales de filas![Untitled](Images/Determinantes/Untitled%204.png)
+- Propiedades del Determinante y las operaciones elementales de filas![Untitled](_private/Images/Determinantes/Untitled%204.png)
 - Condiciones que generan determinantes cero
     - Si $A\in R^{n\times n}$ y una de las siguientes afirmaciones es ciertas, entonces $\det (A) =0$
 	    - Si una fila o columna consta completamente de ceros
@@ -53,8 +53,8 @@ $$A^{-1} = \frac{1}{det(A)}adj(A)$$
 
 donde $det(A)$ es el determinante de $A$. La matriz adjunta de $A$ es útil para calcular la inversa de $A$ porque contiene información sobre los cofactores de $A$, que a su vez están relacionados con los menores de $A$ y el determinante de $A$.
 
-- Propiedades de la matriz adjunta![Untitled](Images/Determinantes/Untitled%208.png)
+- Propiedades de la matriz adjunta![Untitled](_private/Images/Determinantes/Untitled%208.png)
 
-- Teorema Condición Necesaria y Suficiente para la inversa de una matriz![Untitled](Images/Determinantes/Untitled%209.png)  
-- Teorema: **Sistemas Cramerianos**    ![Untitled](Images/Determinantes/Untitled%2011.png)
-- Teorema: **2do Teorema de equivalencias**    ![Untitled](Images/Determinantes/Untitled%2012.png)
+- Teorema Condición Necesaria y Suficiente para la inversa de una matriz![Untitled](_private/Images/Determinantes/Untitled%209.png)  
+- Teorema: **Sistemas Cramerianos**    ![Untitled](_private/Images/Determinantes/Untitled%2011.png)
+- Teorema: **2do Teorema de equivalencias**    ![Untitled](_private/Images/Determinantes/Untitled%2012.png)

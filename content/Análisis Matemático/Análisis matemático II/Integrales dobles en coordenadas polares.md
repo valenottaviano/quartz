@@ -14,7 +14,7 @@ Year: 2022
     0 \leq r \leq \infty \wedge 0\leq \varphi \leq 2\pi
     $$
     
-    ![Untitled](Images/Integrales%20dobles%20en%20coordenadas%20polares/Untitled.png)
+    ![Untitled](_private/Images/Integrales%20dobles%20en%20coordenadas%20polares/Untitled.png)
     
     Tenemos la siguiente transformación
     
@@ -62,6 +62,6 @@ Year: 2022
     
 - Qué relación hay entre los sistemas de coordenadas
     
-    ![Untitled](Images/Integrales%20dobles%20en%20coordenadas%20polares/Untitled%201.png)
+    ![Untitled](_private/Images/Integrales%20dobles%20en%20coordenadas%20polares/Untitled%201.png)
 
 

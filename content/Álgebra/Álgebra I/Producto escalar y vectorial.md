@@ -38,8 +38,8 @@ $$\vec{u} \cdot \vec{v} = u_1 v_1 + u_2 v_2$$
 	El producto vectorial es una operación que se realiza entre dos vectores en $\mathbb{R}^3$ y que produce un tercer vector que es perpendicular a los dos vectores originales. Formalmente, si $\vec{u} = \begin{pmatrix} u_1 \\ u_2 \\ u_3 \end{pmatrix}$ y $\vec{v} = \begin{pmatrix} v_1 \\ v_2 \\ v_3 \end{pmatrix}$ son dos vectores en $\mathbb{R}^3$, entonces el producto vectorial de $\vec{u}$ y $\vec{v}$, denotado por $\vec{u} \times \vec{v}$, se calcula como sigue:	$$\vec{u} \times \vec{v} = \begin{pmatrix} u_2 v_3 - u_3 v_2 \\ u_3 v_1 - u_1 v_3 \\ u_1 v_2 - u_2 v_1 \end{pmatrix}$$
 
 
-- Propiedades del producto vectorial    ![Untitled](Images/Producto%20escalar%20y%20vectorial/Untitled%2012.png)
-- Demostración de las propiedades del producto vectorial    ![Untitled](Images/Producto%20escalar%20y%20vectorial/Untitled%2013.png)![Untitled](Images/Producto%20escalar%20y%20vectorial/Untitled%2014.png)![Untitled | 300](Images/Producto%20escalar%20y%20vectorial/Untitled%2015.png)
+- Propiedades del producto vectorial    ![Untitled](_private/Images/Producto%20escalar%20y%20vectorial/Untitled%2012.png)
+- Demostración de las propiedades del producto vectorial    ![Untitled](_private/Images/Producto%20escalar%20y%20vectorial/Untitled%2013.png)![Untitled](_private/Images/Producto%20escalar%20y%20vectorial/Untitled%2014.png)![Untitled | 300](_private/Images/Producto%20escalar%20y%20vectorial/Untitled%2015.png)
 
 - Definición de producto mixto
     El producto mixto es una operación que se realiza entre tres vectores en $\mathbb{R}^3$ y que produce un escalar. Formalmente, si $\vec{u}$, $\vec{v}$ y $\vec{w}$ son tres vectores en $\mathbb{R}^3$, entonces el producto mixto de $\vec{u}$, $\vec{v}$ y $\vec{w}$, denotado por $[\vec{u},\vec{v},\vec{w}]$, se calcula como sigue:$$[\vec{u},\vec{v},\vec{w}] = \vec{u} \cdot (\vec{v} \times \vec{w})$$

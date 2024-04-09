@@ -20,13 +20,13 @@ $$\int u(x)dv(x) = u(x)v(x) - \int v(x)du(x)$$
 
 donde $u(x)$ es la función que se deriva y $dv(x)$ es la función que se integra.
 
-- Integrales comunes en las que se usa la integración por partes![Untitled](Images/Técnicas%20de%20Integración%20de%20una%20variable/Untitled%203.png)
+- Integrales comunes en las que se usa la integración por partes![Untitled](_private/Images/Técnicas%20de%20Integración%20de%20una%20variable/Untitled%203.png)
 
-- Relación de lados y ángulos en integración por método trigonométrica![Untitled](Images/Técnicas%20de%20Integración%20de%20una%20variable/Untitled%204.png)
+- Relación de lados y ángulos en integración por método trigonométrica![Untitled](_private/Images/Técnicas%20de%20Integración%20de%20una%20variable/Untitled%204.png)
 
 
 ### Fracciones parciales (cocientes de polinomios)
 - Si el grado del polinomio superior > inferior
     - Se utiliza cuando el polinomio del denominador es de mayor grado que el del numerador
-    ![Untitled](Images/Técnicas%20de%20Integración%20de%20una%20variable/Untitled%205.png)
+    ![Untitled](_private/Images/Técnicas%20de%20Integración%20de%20una%20variable/Untitled%205.png)
 

@@ -5,9 +5,9 @@ Year: 2022
 
 ## 5.1 Fuentes de Corriente Alterna
 
-![Untitled](Images/Fuentes%20de%20corriente%20alterna/Untitled.png)
+![Untitled](_private/Images/Fuentes%20de%20corriente%20alterna/Untitled.png)
 
-![Untitled](Images/Fuentes%20de%20corriente%20alterna/Untitled%201.png)
+![Untitled](_private/Images/Fuentes%20de%20corriente%20alterna/Untitled%201.png)
 
 $$
 v=V\cos\omega t
@@ -19,7 +19,7 @@ $$
 
 ### 5.1.1 **Corriente alterna rectificada**
 
-![Untitled](Images/Fuentes%20de%20corriente%20alterna/Untitled%202.png)
+![Untitled](_private/Images/Fuentes%20de%20corriente%20alterna/Untitled%202.png)
 
 $$
 I_{vrm}=\dfrac{2}{\pi}I
@@ -27,7 +27,7 @@ $$
 
 ### 5.1.2 **Valor Cuadrático Medio o Valor Eficaz**
 
-![Untitled](Images/Fuentes%20de%20corriente%20alterna/Untitled%203.png)
+![Untitled](_private/Images/Fuentes%20de%20corriente%20alterna/Untitled%203.png)
 
 $$
 V_{rms}=\dfrac{V}{\sqrt{2}}

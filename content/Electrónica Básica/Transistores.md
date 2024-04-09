@@ -17,9 +17,9 @@ y N respectivamente. La figura-1, muestra la estructura interna del transistor. 
 se le conoce también como diodo.
     - Normalmente la corriente ingresa por el colector, y sale por el emisor
 
-![Untitled | 300](Images/Transistores/Untitled.png)
+![Untitled | 300](_private/Images/Transistores/Untitled.png)
 
-![Untitled | 300](Images/Transistores/Untitled%201.png)
+![Untitled | 300](_private/Images/Transistores/Untitled%201.png)
 
 - Se lo puede usar como amplificador (electrónica analógica) y como interruptor (electrónica digital)
 
@@ -28,7 +28,7 @@ se le conoce también como diodo.
 - Deja pasar o corta señales eléctricas a partir de una corriente chica.
 - Funciona como un interruptor. Si no le llega corriente a la base, es como si el interruptor estuviera abierto. No hay corriente entre colector y emisor
 
-![Untitled](Images/Transistores/Untitled%202.png)
+![Untitled](_private/Images/Transistores/Untitled%202.png)
 
 - La corriente de base permite que la corriente colector-emisor exista
 
@@ -38,7 +38,7 @@ se le conoce también como diodo.
 - Le lalga una señal chica en la base,  y en el colector-emisor se hace grande.
 - Trabajará como componente de electrónica analógica.
 
-![Untitled](Images/Transistores/Untitled%203.png)
+![Untitled](_private/Images/Transistores/Untitled%203.png)
 
 - Todo amplificador posee un $\beta$ o $h_{fe}$ la cual es la ganancia del transistor
 
@@ -64,7 +64,7 @@ $$
 3. **Saturación** $I_B \Rightarrow I_{CE}$  máxima
     - Entre el colector y el emisor pasa la máxima corriente posible. Aunque aumentemos la corriente en la base, la corriente coelctor-emisor se comporta como un interruptor cerrado (máxima)
 
-![Untitled](Images/Transistores/Untitled%204.png)
+![Untitled](_private/Images/Transistores/Untitled%204.png)
 
 ### Intensidades en un Transistor
 
@@ -78,7 +78,7 @@ $$
 
 ### Tensiones en un Transistor
 
-![Untitled](Images/Transistores/Untitled%205.png)
+![Untitled](_private/Images/Transistores/Untitled%205.png)
 
 - **En corte**
     - Cuando la tensión $V_1$ en la base es cero, entonces $I_B=0$ y $V_{BE}=V_1=0$
@@ -91,21 +91,21 @@ $$
     - Tendremos una $V_{BE}=0V$ y la tensión para conseguir la $I_B$ que nos de la $I_{CEmax}$
     - Ahora entre el clector y el emisor no es un interruptor cerrado ni abierto. Es solo como si hubiera una resistencia que iría disminuyendo el valor según aumente $I_B$ dejando pasar más corriente entre el colector-emisor
     
-    ![Untitled](Images/Transistores/Untitled%206.png)
+    ![Untitled](_private/Images/Transistores/Untitled%206.png)
     
     [](https://www.youtube.com/watch?v=t_k4XkAIvDA&ab_channel=ElTraductordeIngenier%C3%ADa)
     
 
 ## Punto de Trabajo Q
 
-![Untitled](Images/Transistores/Untitled%207.png)
+![Untitled](_private/Images/Transistores/Untitled%207.png)
 
 - Un transistor bipolar que opera en la región lineal tiene características eléctricas que son utilizadas para amplificación.
 - Los valres de corrientes y tensiones en continua en los terminales del transistor se **denomina punto de trabajo Q**
     - El circuito está polarizado con dos resistencias y una fuente de tensión continua
     
 
-![Untitled](Images/Transistores/Untitled%208.png)
+![Untitled](_private/Images/Transistores/Untitled%208.png)
 
 $$
 I_E=I_C+I_B
@@ -119,6 +119,6 @@ $$
 \alpha = \dfrac{1_C}{I_E} \approx 1 
 $$
 
-![Untitled | 400](Images/Transistores/Untitled%209.png)
+![Untitled | 400](_private/Images/Transistores/Untitled%209.png)
 
-![Untitled](Images/Transistores/Untitled%2010.png)
+![Untitled](_private/Images/Transistores/Untitled%2010.png)

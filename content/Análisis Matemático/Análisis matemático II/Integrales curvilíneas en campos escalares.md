@@ -61,7 +61,7 @@ Year: 2022
     - **Regular a trozos**
         - Se dice regular a trozo sii se puede descomponer en un número finito de arcos regulares
             
-            ![Untitled](Images/Integrales%20curvilíneas%20en%20campos%20escalares/Untitled.png)
+            ![Untitled](_private/Images/Integrales%20curvilíneas%20en%20campos%20escalares/Untitled.png)
             
     - Si $\gamma =f([a,b])$ es regular $\Rightarrow$ $\gamma$ tiene longitud
 
@@ -84,7 +84,7 @@ Year: 2022
     1. $f([a,b)]=g([a,b)]$
     2. $f(a)=g(a)$ y $f(b) = g(b)$
     
-    ![Untitled](Images/Integrales%20curvilíneas%20en%20campos%20escalares/Untitled%201.png)
+    ![Untitled](_private/Images/Integrales%20curvilíneas%20en%20campos%20escalares/Untitled%201.png)
     
 - Cómo se define una integral curvilínea?
     
@@ -96,6 +96,6 @@ Year: 2022
     
     - Podemos ademas calcular una integral curvilínea a trozos
         
-        ![Untitled](Images/Integrales%20curvilíneas%20en%20campos%20escalares/Untitled%202.png)
+        ![Untitled](_private/Images/Integrales%20curvilíneas%20en%20campos%20escalares/Untitled%202.png)
 
 

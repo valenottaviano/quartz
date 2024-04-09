@@ -30,32 +30,32 @@
 
 - Fusión de archivos (mezcla)
     
-    ![Untitled](Images/Métodos%20de%20Ordenación%20Externa/Untitled.png)
+    ![Untitled](_private/Images/Métodos%20de%20Ordenación%20Externa/Untitled.png)
     
 - Partición de archivos
     
-    ![Untitled](Images/Métodos%20de%20Ordenación%20Externa/Untitled%201.png)
+    ![Untitled](_private/Images/Métodos%20de%20Ordenación%20Externa/Untitled%201.png)
     
 - Clasificación Interna
     
-    ![Untitled](Images/Métodos%20de%20Ordenación%20Externa/Untitled%202.png)
+    ![Untitled](_private/Images/Métodos%20de%20Ordenación%20Externa/Untitled%202.png)
     
     - Por contenido
         
-        ![Untitled](Images/Métodos%20de%20Ordenación%20Externa/Untitled%203.png)
+        ![Untitled](_private/Images/Métodos%20de%20Ordenación%20Externa/Untitled%203.png)
         
     - Por secuencias
         
-        ![Untitled](Images/Métodos%20de%20Ordenación%20Externa/Untitled%204.png)
+        ![Untitled](_private/Images/Métodos%20de%20Ordenación%20Externa/Untitled%204.png)
         
 
 ## Clasificación de Archivos
 
-![Untitled](Images/Métodos%20de%20Ordenación%20Externa/Untitled%205.png)
+![Untitled](_private/Images/Métodos%20de%20Ordenación%20Externa/Untitled%205.png)
 
-![Untitled](Images/Métodos%20de%20Ordenación%20Externa/Untitled%206.png)
+![Untitled](_private/Images/Métodos%20de%20Ordenación%20Externa/Untitled%206.png)
 
-![Untitled](Images/Métodos%20de%20Ordenación%20Externa/Untitled%207.png)
+![Untitled](_private/Images/Métodos%20de%20Ordenación%20Externa/Untitled%207.png)
 
 ### Ordenamiento por Mezcla Directa
 

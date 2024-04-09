@@ -74,6 +74,6 @@ $$
 - [Notas para el curso de graficación por computadora](https://prometeo.matem.unam.mx/recursos/VariosNiveles/iCartesiLibri/recursos/Notas_Graficacion_por_Computadora/index.html)
 
 
-![Untitled](Images/Gráfica%20de%20funciones%20de%202%20variables/Untitled%201.png)
+![Untitled](_private/Images/Gráfica%20de%20funciones%20de%202%20variables/Untitled%201.png)
 
-![Untitled](Images/Gráfica%20de%20funciones%20de%202%20variables/Untitled%202.png)
+![Untitled](_private/Images/Gráfica%20de%20funciones%20de%202%20variables/Untitled%202.png)

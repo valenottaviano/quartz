@@ -16,9 +16,9 @@ Un **isomorfismo** es una función biyectiva entre dos estructuras algebraicas q
 - $f^{-1}$ es también una función biyectiva que preserva la estructura algebraica de $A$ y $B$, es decir, para todo $x, y \in B$, se cumple que $f^{-1}(x+y) = f^{-1}(x) + f^{-1}(y)$ y $f^{-1}(xy) = f^{-1}(x)f^{-1}(y)$, y para todo $\alpha \in \mathbb{F}$, se cumple que $f^{-1}(\alpha x) = \alpha f^{-1}(x)$.
 
 
-- Teorema **condición Necesaria y suficiente** (inyectiva - sobreyectiva)![Isomorfismos/Untitled%203.png](Images/Isomorfismos/Untitled%203.png)
+- Teorema **condición Necesaria y suficiente** (inyectiva - sobreyectiva)![Isomorfismos/Untitled%203.png](_private/Images/Isomorfismos/Untitled%203.png)
 
 - Definición de **endomorfismo** u **operador lineal**
     Un endomorfismo, también conocido como operador lineal, es una transformación lineal que mapea un espacio vectorial en sí mismo. Formalmente, si $V$ es un espacio vectorial sobre un campo $\mathbb{F}$, entonces un endomorfismo de $V$ es una función lineal $T: V \rightarrow V$ que asigna a cada vector $\vec{v} \in V$ otro vector $T(\vec{v}) \in V$.
 
-- Teorema **condición necesaria y suficiente para isomorfismo**![Isomorfismos/Untitled%205.png](Images/Isomorfismos/Untitled%205.png)
+- Teorema **condición necesaria y suficiente para isomorfismo**![Isomorfismos/Untitled%205.png](_private/Images/Isomorfismos/Untitled%205.png)

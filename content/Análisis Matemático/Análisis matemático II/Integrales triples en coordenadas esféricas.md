@@ -12,9 +12,9 @@ Year: 2022
     0\leq \rho\leq \infty\\0\leq \varphi\leq 2\pi\\0 \leq \theta \leq \pi
     $$
     
-    ![Untitled](Images/Integrales%20triples%20en%20coordenadas%20esféricas/Untitled.png)
+    ![Untitled](_private/Images/Integrales%20triples%20en%20coordenadas%20esféricas/Untitled.png)
     
-    ![Untitled](Images/Integrales%20triples%20en%20coordenadas%20esféricas/Untitled%201.png)
+    ![Untitled](_private/Images/Integrales%20triples%20en%20coordenadas%20esféricas/Untitled%201.png)
     
 - Cómo se define la función aplicación de coordenadas esféricas?
     
@@ -22,7 +22,7 @@ Year: 2022
     g:[0,\infty)\times[0,2\pi]\times[0,\pi]\sub \mathbb{R^3}\rightarrow \mathbb{R^3}\\(\rho,\varphi,\theta)\mapsto (\rho\sin\theta\cos\varphi, \rho\sin\theta\sin\varphi,\rho\cos\theta)
     $$
     
-    ![Untitled](Images/Integrales%20triples%20en%20coordenadas%20esféricas/Untitled%202.png)
+    ![Untitled](_private/Images/Integrales%20triples%20en%20coordenadas%20esféricas/Untitled%202.png)
     
     $$
     J(r,\varphi,z)= \left|\begin{matrix}
@@ -42,8 +42,8 @@ Year: 2022
     \iiint_{D=g(D')}f(x,y,z)\enspace dxdydz=\iiint_{D'}f(\rho\sin\theta\cos\varphi, \rho\sin\theta\sin\varphi,\rho\cos\theta)\enspace\rho^2\sin\theta\enspace d\rho d\varphi d\theta
     $$
     
-    ![Untitled](Images/Integrales%20triples%20en%20coordenadas%20esféricas/Untitled%203.png)
+    ![Untitled](_private/Images/Integrales%20triples%20en%20coordenadas%20esféricas/Untitled%203.png)
     
-    ![Untitled](Images/Integrales%20triples%20en%20coordenadas%20esféricas/Untitled%204.png)
+    ![Untitled](_private/Images/Integrales%20triples%20en%20coordenadas%20esféricas/Untitled%204.png)
     
-    ![Untitled](Images/Integrales%20triples%20en%20coordenadas%20esféricas/Untitled%205.png)
+    ![Untitled](_private/Images/Integrales%20triples%20en%20coordenadas%20esféricas/Untitled%205.png)

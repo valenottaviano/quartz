@@ -33,6 +33,6 @@ $$
 \vec{B}=\dfrac{\mu_0I}{4\pi}\dfrac{2a}{x\sqrt{x^2+a^2}}=\dfrac{\mu_0I}{2\pi r}
 $$
 
-![Untitled](Images/Campo%20magnético%20de%20un%20elemento%20de%20corriente/Untitled.png)
+![Untitled](_private/Images/Campo%20magnético%20de%20un%20elemento%20de%20corriente/Untitled.png)
 
 [[Torque o momento magnético]]

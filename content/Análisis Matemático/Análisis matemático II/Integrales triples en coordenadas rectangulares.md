@@ -14,7 +14,7 @@ Year: 2022
     
     Trazamos por los elementos de $\pi_1$ planos paralelos al plano YOZ, por los de $\pi_2$ planos paralelos al plano XOZ y por los de $\pi_3$ planos paralelos al plano XOY. Queda dividido el paralelepípedo $R$ en $n=pqr$ paralelepípedos parciales $R_k$
     
-    ![Untitled](Images/Integrales%20triples%20en%20coordenadas%20rectangulares/Untitled.png)
+    ![Untitled](_private/Images/Integrales%20triples%20en%20coordenadas%20rectangulares/Untitled.png)
     
     Sean $P_k$ puntos arbitrarios de $R_k \enspace \forall k=1,\dots,n$  y sea la función $f:R^3\rightarrow R$, se define la suma de Riemann de la función $f$ relativa a la partición $\pi$ de $R$
     

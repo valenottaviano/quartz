@@ -22,7 +22,7 @@ Ecuación diferencial cuya solución es la ecuación de onda trivial
     $$
     
 
-![Untitled](Images/Ondas%20electromagnéticas%20en%20el%20vacío/Untitled.png)
+![Untitled](_private/Images/Ondas%20electromagnéticas%20en%20el%20vacío/Untitled.png)
 
 - El fenómeno ondulatorio electromagnético es transversal.
     - La amplitud es vertical, mientras que la onda se propaga de forma horizontal.
@@ -64,6 +64,6 @@ $$
 
 ## 6.5 Espectro Electromagnético
 
-![Untitled](Images/Ondas%20electromagnéticas%20en%20el%20vacío/Untitled%201.png)
+![Untitled](_private/Images/Ondas%20electromagnéticas%20en%20el%20vacío/Untitled%201.png)
 
 - En cada rango de frecuencia se define un tipo de radiación electromagnética
