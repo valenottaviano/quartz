@@ -15,6 +15,8 @@
 	2. [[Ley de Fitts]]
 	3. [[User flow]]
 	4. [[Conceptos básicos del diseño de interfaces]]
+	5. [[Creación de un design system]]
+	6. [[Wireframes]]
 
 ## Trabajos prácticos
 
