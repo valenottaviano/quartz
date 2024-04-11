@@ -1,7 +1,6 @@
 # Sistemas de Información I
 
 ![[Pasted image 20240312181831.png]]
-[[Sistemas_de_información_drawing.excalidraw]]
 
 
 1. [[Introducción a Sistemas de Información]]
@@ -17,6 +16,8 @@
 	4. [[Conceptos básicos del diseño de interfaces]]
 	5. [[Creación de un design system]]
 	6. [[Wireframes]]
+	7. [[Las fichas de interfaz de un diseño]]
+4. [[Gamification]]
 
 ## Trabajos prácticos
 
