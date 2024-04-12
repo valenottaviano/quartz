@@ -24,18 +24,25 @@ Bibliografía: [II. Cristo, su Persona y su obra: el mensaje social del Evangeli
 - [[Doctrina social de la Iglesia]] es una herramienta que sirve para la evangelización, alcanzando al hombre en su vida social. Jesús trae un mensaje social para todos los laicos y llevar a la plenitud las realidades materiales.
 	- Dirigida a los laicos: Personas no consagradas a Dios.
 
-## Planos del magisterios
-- Plano cristológico (Cristo)
+## Planos del magisterio
+
+- *Plano cristológico (Cristo)*
 	- Reinado de Cristo. No solo a nivel individual sino también social.
-- Plano eclesiológico y su proyección político-cultural (Iglesia)
-	- Le hermenéutica de la continuidad. La enseñanza de la iglesia a través de los tiempos.
-- Plano antropológico (Hombre)
+	- Cristo como rey de toda la creación, no solo para el hombre. También de las sociedades humanas: cultura del encuentro, de la paz, civilización del amor.
+- *Plano eclesiológico y su proyección político-cultural (Iglesia)*
+	- Iluminado por el plano cristológico
+	- Le hermenéutica de la continuidad.
+		- La enseñanza de la iglesia a través de los tiempos.
+		- Las verdades fundamentales se mantienen a lo largo de toda la historia.
+- *Plano antropológico (Hombre)*
+	- Consideración de la persona humana como destinataria del amor preferente de Jesucristo, expresado en el amor por su promoción integral.
 	- Existe una riqueza sobre la persona humana, y debemos conocerla.
 	- La divinidad humana. ¿Qué es la persona humana?
 	- Cristo le descubre al hombre el hombre mismo y su potencial.
 
 
 ### Desafíos actuales propuestos por Monseñor Munilla
+
 - Proponer una ecología antropocéntrico
 	- Ecología sana que incorpore la dimensión humana y ética a la realidad ambiental.
 - Ética para las redes sociales
@@ -46,8 +53,8 @@ Bibliografía: [II. Cristo, su Persona y su obra: el mensaje social del Evangeli
 	- Protección del más débil, del necesitado, que tiene que irse de su hogar.
 
 
-
 ## Centralidad de la verdad cristológica
+
 - De la centralidad de cristo surge el magisterio de la [[Doctrina social de la Iglesia]]
 	- La verdad no es una posesión, es un encuentro.
 - Se trata de penetrar con inteligencia en todo lo que Jesús hizo y enseño (fáctico).

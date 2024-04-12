@@ -3,6 +3,8 @@
 - [[Arq de Comp I - Temas examen]]
 - Course: [[Arquitectura de Computadores I]]
 
+## Tabla de contenido
+
 - [[Que es una computadora]]
 	- [[Arquitectura y organización de los computadores]]
 	- [[Arquitectura de Von Neumann]]

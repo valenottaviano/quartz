@@ -1,3 +1,5 @@
+## Tabla de contenido
+
 - [[Principio del rendimiento de un microprocesador]]
 	- [[El microprocesador]]
 	- [[Ley de Amdahl]] 
