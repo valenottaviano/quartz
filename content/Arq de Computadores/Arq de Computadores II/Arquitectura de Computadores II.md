@@ -12,3 +12,4 @@
 	- [[Escalabilidad y fiabilidad]]
 	- [[Procesadores segmentados]]
 	- [[Rendimiento de los procesadores segmentados]]
+	- [[Procesadores supersegmentados]]

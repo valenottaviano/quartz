@@ -19,6 +19,7 @@ Los procesadores segmentados multifunción pueden ser estáticamente configurabl
 
 
 ## Profundidad de la segmentación
+
 La profundidad de la segmentación en un procesador segmentado se refiere al número de segmentos o etapas en el procesador, cada uno de los cuales completa una parte de la tarea total. La profundidad de la segmentación es importante porque afecta al tiempo de latencia del procesador. Un procesador segmentado con una profundidad de segmentación mayor puede iniciar una nueva tarea antes, lo que permite un flujo continuo de tareas y optimiza el rendimiento del procesador.
 
 Sin embargo, para que el procesador segmentado sea eficiente, es importante que todas las subtareas en que se ha dividido la tarea total tarden en procesarse el mismo tiempo. Si el procesador no está equilibrado, los segmentos más rápidos estarán cierto tiempo sin hacer trabajo alguno, lo que disminuirá el rendimiento del procesador.
