@@ -15,3 +15,5 @@
 	- [[Procesadores segmentados]]
 	- [[Rendimiento de los procesadores segmentados]]
 	- [[Procesadores supersegmentados]]
+- [[Redes de interconexión]]
+	- [[Modelos de rendimiento de los sistemas de comunicación]]

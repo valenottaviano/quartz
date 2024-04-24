@@ -5,6 +5,7 @@
 	- [[La DSI en el plan divino de la salvación]]
 	- [[El mensaje social del evangelio]]
 	- [[La DSI y el signo de la caridad]]
+	- [[Expresión de la doctrina tradicional católica]]
 
 
 ## Bibliografía para el examen final
