@@ -17,3 +17,6 @@
 	- [[Procesadores supersegmentados]]
 - [[Redes de interconexión]]
 	- [[Modelos de rendimiento de los sistemas de comunicación]]
+	- [[Clasificación de las redes de interconexión]]
+		- [[Tipos de redes estáticas]]
+	- [[Redes de interconexión dinámicas]]
