@@ -5,3 +5,7 @@
 - [[Arquitectura del Software]]
 	- [[Microservicios]]
 - [[Diagrama de GANTT]]
+- [[Trazabilidad del Software]]
+- [[Ingeniería de Requisitos]]
+	- [[Historias de Usuario]]
+	- [[Método INVEST para historias de usuario]]

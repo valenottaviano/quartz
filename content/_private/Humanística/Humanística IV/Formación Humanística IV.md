@@ -6,7 +6,7 @@
 	- [[El mensaje social del evangelio]]
 	- [[La DSI y el signo de la caridad]]
 	- [[Expresión de la doctrina tradicional católica]]
-	- [[La pluralidad de los fines de la DSI]]
+		- [[La pluralidad de los fines de la DSI]]
 
 
 ## Bibliografía para el examen final
