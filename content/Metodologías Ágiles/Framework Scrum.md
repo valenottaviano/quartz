@@ -1,3 +1,12 @@
+# Framework Scrum
+
+%%
+Date:: [[2024-05-02]]
+Course:: [[Ingeniería de Software I]]
+Source:: [[Metodologías Ágiles]]
+%%
+
+
 El método Scrum es una metodología ágil que se utiliza en el desarrollo de proyectos, especialmente en el ámbito de la gestión de proyectos de software, pero también se aplica en otros campos. Scrum se basa en principios ágiles que se centran en la flexibilidad, la colaboración y la adaptación continua. Aquí tienes un apunte teórico sobre el método Scrum:
 
 

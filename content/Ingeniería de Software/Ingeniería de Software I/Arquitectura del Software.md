@@ -6,6 +6,8 @@ Course:: [[Ingeniería de Software I]]
 Source:: [[]]
 %%
 
+![[ailin.excalidraw]]
+
 - Es el diseño de más alto nivel de la estructura de un sistema
 	- Define, de manera abstracta, los componentes que llevan a cabo alguna tarea de computación, sus interfaces y la comunicación entre ellos.
 	- Toda la arquitectura debe ser implementable en un arquitectura física, que consiste simplemente en determinar que computadora tendrá asignada cada tarea.

@@ -9,3 +9,4 @@
 - [[Ingeniería de Requisitos]]
 	- [[Historias de Usuario]]
 	- [[Método INVEST para historias de usuario]]
+- [[Framework Scrum]]
