@@ -20,3 +20,5 @@
 	- [[Clasificación de las redes de interconexión]]
 		- [[Tipos de redes estáticas]]
 	- [[Redes de interconexión dinámicas]]
+	- [[Redes de Conmutación]]
+	- [[Clustering]]
