@@ -13,7 +13,7 @@ Source:: [[Redes de interconexión]]
 
 ## Conmutación de circuitos
 
-En la conmutación de circuitos los equipos de conmutación deben establecer un camino físico entre los medios de comunicación previo a la conexión entre los usuarios. Este camino permanece activo durante la comunicación entre los usuarios, liberándose al terminar la comunicación. Ejemplo: red telefónica conmutada. Su funcionamiento pasa por las siguientes etapas: solicitud, establecimiento, transferencia de datos y liberación de conexión.
+- En la conmutación de circuitos los equipos de conmutación deben establecer un camino físico entre los medios de comunicación previo a la conexión entre los usuarios. Este camino permanece activo durante la comunicación entre los usuarios, liberándose al terminar la comunicación. Ejemplo: red telefónica conmutada. Su funcionamiento pasa por las siguientes etapas: solicitud, establecimiento, transferencia de datos y liberación de conexión.
 
 ![[Pasted image 20240511091915.png]]
 
@@ -23,7 +23,6 @@ En la conmutación de circuitos los equipos de conmutación deben establecer un 
 - **No hay contención.** Una vez que se ha establecido el circuito las partes pueden comunicarse a la máxima velocidad que permita el medio, sin compartir el ancho de banda ni el tiempo de uso.
 - **El circuito es fijo.** Dado que se dedica un circuito físico específicamente para esa sesión de comunicación, una vez establecido el circuito no hay pérdidas de tiempo calculando y tomando decisiones de encaminamiento en los nodos intermedios. Cada nodo intermedio tiene una sola ruta para los paquetes entrantes y salientes que pertenecen a una sesión específica.
 - **Simplicidad en la gestión de los nodos intermedios.** Una vez que se ha establecido el circuito físico, no hay que tomar más decisiones para encaminar los datos entre el origen y el destino.
-
 ### Desventajas
 
 - **Retraso en el inicio de la comunicación.** Se necesita un tiempo para realizar la conexión, lo que conlleva un retraso en la transmisión de la información.
@@ -76,7 +75,7 @@ Existen 2 tipos
 	- Por lo tanto, la red no puede controlar el camino seguido por los paquetes, ni asegurar el orden de llegada a destino.
 	- Primero se debe enviar el mensaje completo 
 
-### Ventajas
+### Ventajas 
 
 - Si hay error de comunicación, se retransmite una cantidad de datos aun menor que en el caso de mensajes.
 - En caso de error en un paquete, solo se reenvía ese paquete, sin afectar a los demás que llegaron sin error.
