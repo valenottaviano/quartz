@@ -6,3 +6,4 @@
 - [[La elasticidad en la economía]]
 - [[Intervención del gobierno en los mercados ]]
 - [[Políticas de precios bajo economías cerradas]]
+- [[Políticas de precios bajos en economías abiertas]]
