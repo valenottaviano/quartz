@@ -1,7 +1,7 @@
 # Sistemas de Información I
-
-![[Pasted image 20240312181831.png]]
-
+![[Pasted image 20240528185131.png]]
+![[Pasted image 20240528185153.png]]
+![[Pasted image 20240528190001.png]]
 
 1. [[Introducción a Sistemas de Información]]
 	1. [[Dominio de un problema de sistema]]
