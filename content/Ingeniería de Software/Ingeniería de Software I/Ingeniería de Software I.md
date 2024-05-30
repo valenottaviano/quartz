@@ -10,3 +10,4 @@
 	- [[Historias de Usuario]]
 	- [[Método INVEST para historias de usuario]]
 - [[Framework Scrum]]
+- [[Control de versiones con Git]]
