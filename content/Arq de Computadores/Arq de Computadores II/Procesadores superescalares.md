@@ -21,3 +21,8 @@ Lo esencial del enfoque superescalar es su habilidad para ejecutar instrucciones
 
 ![[Pasted image 20240524163830.png]]
 
+## Limitaciones para la aceleración de los procesadores superescalares y segmentados
+- Dependencias de datos
+- Dependencias relativas al procedimiento
+- Conflicto de los recursos
+

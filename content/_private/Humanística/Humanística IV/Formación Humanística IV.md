@@ -9,7 +9,7 @@
 		- [[La pluralidad de los fines de la DSI]]
 	- [[Lo que no es la DSI]]
 	- [[Laicado y eficiencia histórica de la DSI]]
-
+	 - [[La persona a imagen y semejanza de Dios]]
 
 ## Bibliografía para el examen final
 
