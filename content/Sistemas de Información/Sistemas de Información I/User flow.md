@@ -18,6 +18,6 @@ Los diagramas de flujo pueden utilizarse en multitud de momentos dentro del proc
 
 Los elementos de un diagrama de flujo incluyen el círculo, que sirve para identificar el inicio y el fin del flujo, el rectángulo ovalado, que se utiliza para identificar interacciones que realiza el usuario, el rectángulo, que se utiliza para comunicar "escenarios" o estados, y los rombos, que indican que en ese punto se toma una decisión.
 
-En resumen, los user flow o flujos de usuario son diagramas de flujo visuales que representan acciones específicas para guiar a los usuarios en aplicaciones y páginas web. Se utilizan en el diseño de interfaces de usuario para trazar recorridos completos de productos o tareas clave dentro de un producto. La clave para elaborar flujos de usuario es definir y comprender primero al usuario y sus diversas necesidades, además de definir claramente los objetivos empresariales. Los diagramas de flujo son una herramienta de diseño centrada en el usuario que permite representar visualmente cómo se mueve el usuario en el sistema.
+
 
 

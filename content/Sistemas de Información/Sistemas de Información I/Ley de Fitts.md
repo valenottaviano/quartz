@@ -11,5 +11,3 @@ Para aplicar la ley de Fitts en el diseño de interfaces de usuario, se deben te
 * Realizar pruebas de usabilidad y evaluar la precisión y la velocidad de selección de los usuarios en la interfaz.
 
 La ley de Fitts es especialmente relevante en el diseño de interfaces táctiles y de puntero, donde la precisión y la velocidad de selección son cruciales. Además, se aplica en la mayoría de las interacciones táctiles y de puntero, lo que la convierte en una ley básica en la interacción humano-computadora.
-
-En resumen, la ley de Fitts es un principio psicométrico que describe la relación entre el tamaño y la distancia de un objeto en una interfaz de usuario y la rapidez y precisión con la que los usuarios pueden seleccionar ese objeto. Se basa en el concepto de "costo de movimiento" y se utiliza para diseñar interfaces de usuario que son fáciles y rápidas de usar. Al aplicar los principios de la ley de Fitts, los diseñadores pueden aumentar la precisión y la velocidad de selección de los usuarios en la interfaz, lo que mejora la usabilidad y la eficiencia.

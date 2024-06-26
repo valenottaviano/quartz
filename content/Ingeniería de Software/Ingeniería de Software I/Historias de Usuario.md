@@ -10,7 +10,7 @@ En Scrum, las historias de usuario son una técnica utilizada para definir requi
 
 Las historias de usuario siguen un formato básico que incluye:
 
-- **Como un** (tipo de usuario_,
+- **Como un** (tipo de usuario),
 - **Quiero** (realizar una acción)
 - **Para** (obtener un beneficio o resultado deseado).
 
