@@ -18,12 +18,17 @@ Work in Progress 👨‍🏭
 [[Sistemas de Información I]]
 [[Ingeniería de Software I]]
 [[Teleinformática I]]
+[[Teleinformática II]]
+[[Trabajo de Campo]]
 ## Programación
 [[Programación I]]  [[Programación II]]  [[Programación III]]
 [[Bases de datos]]
+
 ## Cursos
 [[Python]]
 [[Metodologías Ágiles]]
 
 ##  Finanzas
 [[Economía]]
+[[Organización Empresarial]]
+[[Evaluación de Proyectos de Inversión]]
