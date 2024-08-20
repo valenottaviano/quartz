@@ -47,7 +47,6 @@ Los **costos variables** son aquellos que cambian en proporción directa con el 
 - **Descripción:** Se refieren al costo variable por unidad de producción. A diferencia de los costos fijos unitarios, los costos variables unitarios suelen permanecer constantes por cada unidad producida.
 - **Ejemplo:** Si el costo de materia prima por unidad es $5, entonces el costo variable unitario es $5.
 
-
 ---
 
 ## Resumen Comparativo
