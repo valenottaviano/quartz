@@ -15,6 +15,8 @@ Source:: [[Conceptos económicos básicos]]
 
 ## Modelos Cuantitativos
    - **Series de Tiempo**: Pronostican valores futuros extrapolando comportamientos históricos. Se utilizan en contextos donde el tiempo es un factor clave.
+	   - Series de tiempo mediante promedios móviles
+	   - Series de tiempo mediante promedios móviles ponderados
    - **Modelos Causales**: Explican el comportamiento de una variable dependiente a partir de una o más variables independientes. Ejemplos incluyen la **Regresión Lineal** y el uso de **Mínimos Cuadrados**.
 
 ## Modelos de Aprendizaje Automático

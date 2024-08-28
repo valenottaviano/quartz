@@ -6,6 +6,7 @@ Course:: [[Organización Empresarial]]
 Source:: [[]]
 %%
 
+*Libro: Kooniz Weidicch*
 ### Organización
 
 - Elementos que caracterizan a las organizaciones
