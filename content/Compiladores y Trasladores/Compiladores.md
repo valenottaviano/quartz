@@ -57,11 +57,5 @@ Source:: [[]]
 | **Usos comunes**          | Utilizado en aplicaciones de alto rendimiento donde la velocidad es crucial.      | Común en desarrollo de scripts, aplicaciones web, y entornos de desarrollo interactivo. |
 | **Manejo de memoria**     | Generalmente, el programador tiene control sobre la memoria.                      | A menudo incluye manejo automático de memoria, como la recolección de basura.           |
 | **Salida**                | Proporciona un binario o código objeto que puede distribuirse.                    | No produce un binario; el código debe ser distribuido en su forma original.             |
-- Estructura básica de un compiladir
-	- Fase de análisis
-		- Analizador léxico
-		- Analizador sintáctico
-		- Analizador semántico
-	- Síntesis
-		- Optimización
-		- Generación de código
+
+[[Estructura de un compilador]]

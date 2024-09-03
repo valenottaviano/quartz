@@ -56,4 +56,3 @@ Henry Mintzberg, un destacado teórico de la organización, propone un modelo m�
 	- **Estandarización de procesos de trabajo**: Se refiere a la creación de rutinas, reglas y procedimientos específicos que todos deben seguir para garantizar la uniformidad en la ejecución de las tareas.
 	- **Estandarización de resultados**: Aquí, lo que se estandariza son los objetivos finales, los cuales deben cumplirse independientemente de cómo se lleve a cabo el trabajo.
 	- **Estandarización de habilidades**: Este tipo de estandarización se refiere a la formación y certificación de las habilidades necesarias para desempeñar ciertas tareas. Los empleados reciben una capacitación uniforme para asegurar que todos tengan las mismas competencias para ejecutar sus funciones.
-
