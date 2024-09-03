@@ -20,3 +20,7 @@ Antes de formular y evaluar proyectos o ideas de negocio, es fundamental definir
     La ejecución es la puesta en práctica de la estrategia. Implica la asignación de recursos, la coordinación de equipos, y la implementación de las acciones planificadas. Durante esta fase, es vital seguir de cerca el progreso y asegurarse de que todos los aspectos del plan se estén llevando a cabo según lo previsto.
 5. **Evaluar y Corregir:**  
     Finalmente, es crucial realizar una evaluación continua del avance del proyecto. Esto incluye medir el rendimiento en relación con los objetivos establecidos, identificar desviaciones y realizar los ajustes necesarios para corregir el rumbo. La evaluación también proporciona retroalimentación valiosa para futuras estrategias y proyectos.
+
+## Documentación para la estrategia de evaluación
+- [[Plan de Negocios]]
+- [[Business Case]]
