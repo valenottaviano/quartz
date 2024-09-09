@@ -2,6 +2,7 @@
 title: Second Brain
 ---
 Inicia por aquí!! 👉 [[table of content]] 
+![[Pasted image 20240906201133.png]]
 
 ¡Bienvenido a mi repositorio digital de apuntes construido durante mi recorrido por la universidad! En este proyecto, he reunido lecciones y experiencias de mi tiempo estudiando ingeniería en informática. 
 

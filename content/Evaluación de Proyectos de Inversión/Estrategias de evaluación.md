@@ -22,5 +22,6 @@ Antes de formular y evaluar proyectos o ideas de negocio, es fundamental definir
     Finalmente, es crucial realizar una evaluación continua del avance del proyecto. Esto incluye medir el rendimiento en relación con los objetivos establecidos, identificar desviaciones y realizar los ajustes necesarios para corregir el rumbo. La evaluación también proporciona retroalimentación valiosa para futuras estrategias y proyectos.
 
 ## Documentación para la estrategia de evaluación
+
 - [[Plan de Negocios]]
 - [[Business Case]]

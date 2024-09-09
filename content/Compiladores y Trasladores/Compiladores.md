@@ -59,3 +59,4 @@ Source:: [[]]
 | **Salida**                | Proporciona un binario o código objeto que puede distribuirse.                    | No produce un binario; el código debe ser distribuido en su forma original.             |
 
 [[Estructura de un compilador]]
+[[Tipos de Compiladores]]
