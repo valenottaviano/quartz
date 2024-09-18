@@ -13,7 +13,7 @@ Un compilador es un programa que traduce código fuente escrito en un lenguaje d
 
 Esta fase se encarga de descomponer y entender el código fuente. Se subdivide en las siguientes etapas:
 
-1. **Analizador Léxico**:
+1. **[[Análisis Léxico de un compilador]]**:
     - Esta es la primera etapa del proceso de compilación. El analizador léxico toma el código fuente y lo divide en tokens, que son las unidades básicas del lenguaje, como palabras clave, operadores y delimitadores.
     - **Propósito**: Ayuda a identificar los componentes básicos del código y a eliminar cualquier espacio en blanco, comentarios o caracteres innecesarios.
 2. **Analizador Sintáctico**:

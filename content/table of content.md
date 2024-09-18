@@ -20,6 +20,7 @@ Work in Progress 👨‍🏭
 [[Teleinformática I]]
 [[Teleinformática II]]
 [[Trabajo de Campo]]
+[[Inteligencia Artificial]]
 ## Programación
 [[Programación I]]  [[Programación II]]  [[Programación III]]
 [[Bases de datos]]
