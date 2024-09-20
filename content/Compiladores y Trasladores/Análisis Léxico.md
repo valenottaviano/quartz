@@ -30,9 +30,3 @@ Un **token** es una representación interna de un componente léxico que consta 
 - Un **patrón** es una regla que define qué secuencias de caracteres pueden representar a un componente léxico. Por ejemplo, el patrón para los operadores relacionales incluye las cadenas "<", ">", "<=", ">=", etc.
 
 ![[Pasted image 20240916154624.png]]
-### Beneficios de separar el análisis léxico del sintáctico:
-
-1. **Simplificación del diseño**: Separar el análisis léxico del sintáctico facilita la construcción de compiladores, ya que el primero se encarga de manejar aspectos como los comentarios o los espacios en blanco, dejando al segundo enfocado en la estructura gramatical del código.
-2. **Mejora de la eficiencia**: Gran parte del trabajo del compilador se centra en reconocer los componentes léxicos, por lo que la separación permite optimizar esta tarea.
-3. **Portabilidad**: Al limitar el manejo de las peculiaridades del código fuente al análisis léxico, es posible adaptar el compilador más fácilmente a diferentes lenguajes o sistemas.
-

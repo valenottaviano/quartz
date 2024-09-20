@@ -6,14 +6,12 @@ Course:: [[Compiladores y Trasladores]]
 Source:: [[]]
 %%
 
-Un compilador es un programa que traduce código fuente escrito en un lenguaje de programación de alto nivel a un lenguaje de bajo nivel, como el código máquina. La estructura de un compilador se divide típicamente en dos fases principales: la fase de análisis y la fase de síntesis.
-
 ![[Pasted image 20240909172034.png]]
 ### Fase de Análisis
 
 Esta fase se encarga de descomponer y entender el código fuente. Se subdivide en las siguientes etapas:
 
-1. **[[Análisis Léxico de un compilador]]**:
+1. **[[Análisis Léxico]]**:
     - Esta es la primera etapa del proceso de compilación. El analizador léxico toma el código fuente y lo divide en tokens, que son las unidades básicas del lenguaje, como palabras clave, operadores y delimitadores.
     - **Propósito**: Ayuda a identificar los componentes básicos del código y a eliminar cualquier espacio en blanco, comentarios o caracteres innecesarios.
 2. **Analizador Sintáctico**:
@@ -25,7 +23,7 @@ Esta fase se encarga de descomponer y entender el código fuente. Se subdivide e
     - El analizador semántico revisa el árbol sintáctico para asegurarse de que las construcciones del código tengan sentido dentro del contexto del lenguaje. Esto incluye verificar que las variables estén declaradas antes de ser utilizadas, que los tipos de datos sean consistentes y que las operaciones realizadas sean válidas.
     - **Propósito**: Asegura que el código no solo esté estructurado correctamente, sino que también tenga un significado lógico y correcto dentro del contexto del programa. Por ejemplo, valida el flujo de ejecución y la lógica subyacente.
     - [[Esquemas de traducción de un compilador]]
-    - [[Esquemas canónicos de un compilador]]
+    - [[Esquemas canónicos y de traducción]]
 4. **Analizador Pragmático**:
     - Esta etapa, menos comúnmente mencionada, considera el contexto de uso del código y cómo interactúa con su entorno de ejecución. El analizador pragmático se enfoca en cómo el código se comportará cuando sea ejecutado, teniendo en cuenta aspectos como la integración con otros sistemas o la interacción con el usuario.
     - **Propósito**: Detecta y maneja situaciones que podrían causar errores en tiempo de ejecución, como el acceso a recursos inexistentes o condiciones no anticipadas durante la ejecución del programa.
