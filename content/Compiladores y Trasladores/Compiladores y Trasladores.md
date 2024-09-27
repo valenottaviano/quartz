@@ -38,3 +38,4 @@ Source:: [[]]
     - Código intermedio
     - Código de tres direcciones
     - Ejemplo de generación de código
+	- [[Algoritmo de Thompson y construcción de Subconjuntos]]
