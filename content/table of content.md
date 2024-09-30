@@ -21,6 +21,9 @@ Work in Progress 👨‍🏭
 [[Teleinformática II]]
 [[Trabajo de Campo]]
 [[Inteligencia Artificial]]
+[[Compiladores y Trasladores]]
+[[Sistemas Operativos]]
+
 ## Programación
 [[Programación I]]  [[Programación II]]  [[Programación III]]
 [[Bases de datos]]
