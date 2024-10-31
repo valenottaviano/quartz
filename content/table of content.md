@@ -19,7 +19,6 @@ Work in Progress 👨‍🏭
 [[Ingeniería de Software I]]
 [[Teleinformática I]]
 [[Teleinformática II]]
-[[Trabajo de Campo]]
 [[Inteligencia Artificial]]
 [[Compiladores y Trasladores]]
 [[Sistemas Operativos]]

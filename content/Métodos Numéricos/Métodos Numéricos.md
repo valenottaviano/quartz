@@ -1,3 +1,6 @@
+>[!important] 
+>Para ver el contenido de la asignatura accede a la sección: `backlinks` !
+
 ## Programa de la materia
 - [[Error]]
 - [[Apunte Teórico - El error.pdf]]

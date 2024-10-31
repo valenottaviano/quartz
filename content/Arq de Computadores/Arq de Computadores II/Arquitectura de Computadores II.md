@@ -1,3 +1,5 @@
+>[!important] 
+>Para ver el contenido de la asignatura accede a la sección: `backlinks` !
 ## Tabla de contenido
 
 - [[Principio del rendimiento de un microprocesador]]

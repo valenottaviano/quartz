@@ -1,3 +1,6 @@
+>[!important] 
+>Para ver el contenido de la asignatura accede a la sección: `backlinks` !
+
 # Sistemas de Información I
 ![[Pasted image 20240528185131.png]]
 ![[Pasted image 20240528185153.png]]
