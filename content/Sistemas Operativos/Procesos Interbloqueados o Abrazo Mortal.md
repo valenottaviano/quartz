@@ -33,4 +33,3 @@ Para decidir qué proceso detener en caso de interbloqueo, se pueden considerar:
 - La prioridad del proceso.
 - El tiempo que lleva en ejecución.
 - La cantidad de recursos que ha usado y necesita.
-
