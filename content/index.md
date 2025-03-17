@@ -2,19 +2,16 @@
 title: Second Brain
 ---
 Inicia por aquí!! 👉 [[table of content]] 
-![[Pasted image 20240906201133.png]]
+
+>[!info] Support 
+>Si el proyecto te sirvió, apoyalo! 😉 
+>
+>[![Invitame un café en cafecito.app | 150](https://cdn.cafecito.app/imgs/buttons/button_6.svg)](https://cafecito.app/valenottaviano)
+
 
 ¡Bienvenido a mi repositorio digital de apuntes construido durante mi recorrido por la universidad! En este proyecto, he reunido lecciones y experiencias de mi tiempo estudiando ingeniería en informática. 
 
->[!info] Support 
->Si el proyecto te sirvió, considera apoyarlo! 
->
->[![Invitame un café en cafecito.app | 150](https://cdn.cafecito.app/imgs/buttons/button_6.svg)](https://cafecito.app/valenottaviano)
-### Propósito
-El objetivo principal de este proyecto es:
-- Servir como un recurso completo para mi referencia personal y crecimiento.
-- Compartir mis conocimientos y experiencias con otros que puedan encontrar valor en ello.
-- Crear una colección estructurada, accesible y organizada de apuntes para una navegación y aprendizaje sencillos.
+![[Pasted image 20240906201133.png]]
 
 ### Cómo Navegar
 Para aprovechar al máximo este recurso, considera lo siguiente:
