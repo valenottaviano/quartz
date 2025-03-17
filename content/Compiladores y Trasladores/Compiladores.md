@@ -28,21 +28,21 @@ Source:: [[]]
 | **Depuración**                   | Incluye herramientas o modos de compilación que facilitan la identificación de errores en el código fuente.           |
 
 ## Características de los intérpretes
-| **Características**        | **Descripción**                                                                 |
-|----------------------------|---------------------------------------------------------------------------------|
-| **Ejecución directa**       | Ejecuta el código fuente línea por línea sin necesidad de convertirlo a código máquina previamente. |
-| **No requiere compilación** | No genera un archivo ejecutable; el código es interpretado directamente durante su ejecución. |
-| **Portabilidad**            | Los programas interpretados pueden ser ejecutados en cualquier plataforma que tenga el intérprete adecuado. |
-| **Interactividad**          | Permite la ejecución de comandos y pruebas en un entorno interactivo, útil para desarrollo y depuración. |
-| **Análisis léxico y sintáctico** | Realiza el análisis del código en tiempo real, mientras se ejecuta, para identificar errores. |
-| **Menor tiempo de inicio**  | El tiempo de inicio del programa es más rápido, ya que no hay necesidad de compilar antes de ejecutar. |
-| **Velocidad de ejecución**  | Generalmente, es más lento que un programa compilado porque analiza y ejecuta el código en tiempo real. |
-| **Flexibilidad**            | Permite modificaciones y ejecuciones rápidas sin necesidad de recompilar el código, lo que facilita el desarrollo rápido. |
-| **Gestión de memoria dinámica** | A menudo incluye manejo automático de memoria, como recolección de basura, para facilitar la programación. |
-| **Errores y advertencias**  | Los errores son detectados en tiempo de ejecución, lo que puede facilitar o dificultar la depuración según el contexto. |
-| **Compatibilidad con lenguajes** | Soporte para múltiples lenguajes de programación, aunque típicamente se especializa en uno solo. |
-| **Seguridad**               | Algunos intérpretes permiten ejecutar código en un entorno controlado o "sandbox", mejorando la seguridad. |
-| **Usos comunes**            | Se utilizan frecuentemente en scripts, lenguajes de shell, y aplicaciones web donde la rapidez en el desarrollo es crucial. |
+| **Características**              | **Descripción**                                                                                                             |
+| -------------------------------- | --------------------------------------------------------------------------------------------------------------------------- |
+| **Ejecución directa**            | Ejecuta el código fuente línea por línea sin necesidad de convertirlo a código máquina previamente.                         |
+| **No requiere compilación**      | No genera un archivo ejecutable; el código es interpretado directamente durante su ejecución.                               |
+| **Portabilidad**                 | Los programas interpretados pueden ser ejecutados en cualquier plataforma que tenga el intérprete adecuado.                 |
+| **Interactividad**               | Permite la ejecución de comandos y pruebas en un entorno interactivo, útil para desarrollo y depuración.                    |
+| **Análisis léxico y sintáctico** | Realiza el análisis del código en tiempo real, mientras se ejecuta, para identificar errores.                               |
+| **Menor tiempo de inicio**       | El tiempo de inicio del programa es más rápido, ya que no hay necesidad de compilar antes de ejecutar.                      |
+| **Velocidad de ejecución**       | Generalmente, es más lento que un programa compilado porque analiza y ejecuta el código en tiempo real.                     |
+| **Flexibilidad**                 | Permite modificaciones y ejecuciones rápidas sin necesidad de recompilar el código, lo que facilita el desarrollo rápido.   |
+| **Gestión de memoria dinámica**  | A menudo incluye manejo automático de memoria, como recolección de basura, para facilitar la programación.                  |
+| **Errores y advertencias**       | Los errores son detectados en tiempo de ejecución, lo que puede facilitar o dificultar la depuración según el contexto.     |
+| **Compatibilidad con lenguajes** | Soporte para múltiples lenguajes de programación, aunque típicamente se especializa en uno solo.                            |
+| **Seguridad**                    | Algunos intérpretes permiten ejecutar código en un entorno controlado o "sandbox", mejorando la seguridad.                  |
+| **Usos comunes**                 | Se utilizan frecuentemente en scripts, lenguajes de shell, y aplicaciones web donde la rapidez en el desarrollo es crucial. |
 
 ## Diferencias entre un compilador y un intérprete
 | **Característica**        | **Compilador**                                                                    | **Intérprete**                                                                          |
