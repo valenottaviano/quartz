@@ -23,16 +23,20 @@ Work in Progress 👨‍🏭
 - [[Compiladores y Trasladores]]
 - [[Sistemas Operativos]]
 - [[Seguridad Informática]]
+- [[Auditoría informática]]
 
 ## Programación
 - [[Programación I]]  [[Programación II]]  [[Programación III]]
 - [[Bases de datos]]
 
-## Cursos
-- [[Python]]
-- [[Metodologías Ágiles]]
-
 ##  Finanzas
 - [[Economía]]
 - [[Organización Empresarial]]
 - [[Evaluación de Proyectos de Inversión]]
+
+## Seminarios
+- [[Gestión Ambiental]]
+
+## Cursos
+- [[Python]]
+- [[Metodologías Ágiles]]
