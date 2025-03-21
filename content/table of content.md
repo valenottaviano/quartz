@@ -24,6 +24,7 @@ Work in Progress 👨‍🏭
 - [[Sistemas Operativos]]
 - [[Seguridad Informática]]
 - [[Auditoría informática]]
+- [[Evaluación y Selección de Hardware]]
 
 ## Programación
 - [[Programación I]]  [[Programación II]]  [[Programación III]]
@@ -34,8 +35,9 @@ Work in Progress 👨‍🏭
 - [[Organización Empresarial]]
 - [[Evaluación de Proyectos de Inversión]]
 
-## Seminarios
+## Seminarios/Otros
 - [[Gestión Ambiental]]
+- [[Legislación]]
 
 ## Cursos
 - [[Python]]
