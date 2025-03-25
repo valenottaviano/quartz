@@ -1,0 +1,12 @@
+- ¿Se ha hecho algo desde el punto de vista ambiental en Tucumán?
+	- Problemas en Tucumán: 
+		- Basura
+			- CPMGRSU (consorcio que se encarga de la separación y clasificación de residuos). La recolección y transferencia lo hace cada municipio 
+			- La provincia tiene un relleno sanitario llamado Overo Pozo que procesa el 70% de los residuos de la provincia.
+		- Zafra
+			- A partir de la zafra, logramos producir azúcar, alcohol, bagazo (combustible que cuando se quema genera cenizas. Hoy ya no se puede emitir al ambiente).
+			- Residuos
+				- Cachaza
+				- Vinaza (el problema es el volumen, porque se lo podría usar como fertilizante)
+				- Ceniza
+		- Otros: inundación, contaminación, polvo en suspensión, enfermedades, incendios.

@@ -14,7 +14,8 @@ Source:: [[]]
 	- **Río Gastona**: Nace en las sierras del Aconquija y desciende hacia el este, sumando su caudal al sistema del río Salí.
 	- **Río Marapa**: También tiene su origen en la zona serrana del sur de Tucumán y contribuye al embalse.
 
-- ¿Se ha hecho algo desde el punto de vista ambiental en Tucumán?
-	- Problemas en Tucumán: basura, zafra, inundación, contaminación, polvo en suspensión, enfermedades, incendios.
-	- CPMGRSU (consorcio que se encarga de la separación y clasificación de residuos). La recolección y transferencia lo hace cada municipio 
-		- La provincia tiene un relleno sanitario llamado Overo Pozo 
+- Tucumán es una cuenca. Tiene múltiples centros de captación, y un único centro de descarga. 
+	- Nace en la provincia de salta, y termina en Santiago del Estero
+	- Cuando los recursos son compartidos, deben ser repartidos equitativamente. Se le otorga a cada provincia un porcentaje (en el caso de Tucumán, un 33%)
+
+- Para medir el estado de un dique, se utiliza el oxígeno disuelto
