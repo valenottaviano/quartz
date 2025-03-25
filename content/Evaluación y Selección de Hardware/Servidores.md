@@ -31,7 +31,6 @@ También puede referirse a un programa o proceso que proporciona servicios espec
 #### Servidores de Aplicaciones:
 
 - **Servidor Web (HTTP):** Procesa aplicaciones del lado del servidor, generando respuestas dinámicas.
-    
     - Ejemplos: PHP (lenguaje interpretado para aplicaciones web dinámicas) y ASP (Active Server Pages, tecnología de Microsoft).
 - **Servidor de Streaming:** Distribuye contenido multimedia en tiempo real, almacenándolo temporalmente en un búfer durante la descarga.
     

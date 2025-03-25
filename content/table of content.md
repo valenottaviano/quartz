@@ -36,6 +36,8 @@ Work in Progress 👨‍🏭
 - [[Evaluación de Proyectos de Inversión]]
 
 ## Seminarios/Otros
+- [[Formación Humanística II]] [[Formación Humanística III]] [[Formación Humanística IV]]
+- [[Seminario Humanístico]]
 - [[Gestión Ambiental]]
 - [[Legislación]]
 
