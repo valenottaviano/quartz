@@ -23,7 +23,7 @@ Work in Progress 👨‍🏭
 - [[Compiladores y Trasladores]]
 - [[Sistemas Operativos]]
 - [[Seguridad Informática]]
-- [[Auditoría informática]]
+- [[Auditoría de Sistemas]]
 - [[Evaluación y Selección de Hardware]]
 
 ## Programación
