@@ -13,7 +13,7 @@ export default ((opts?: Options) => {
     const links = opts?.links ?? []
     return (
       <footer class={`${displayClass ?? ""}`}>
-        <hr />
+        Si el proyecto te sirve, considerá apoyarlo! <a href="https://cafecito.app/valenottaviano">Cafecito</a>
       </footer>
     )
   }
