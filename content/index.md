@@ -1,5 +1,5 @@
 ---
-title: Second Brain
+title: Notes 
 ---
 Inicia por aquí!! 👉 [[table of content]] 
 ![[Pasted image 20240906201133.png]]
