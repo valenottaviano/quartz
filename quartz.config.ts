@@ -8,11 +8,13 @@ import * as Plugin from "./quartz/plugins"
  */
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "Second Brain",
+    pageTitle: "Notes",
     enableSPA: true,
     enablePopovers: true,
+    locale: "es-ES",
     analytics: {
-      provider: "plausible",
+      provider: "google",
+      tagId: "G-G3NEWSEHXY",
     },
     baseUrl: "quartz-alpha.vercel.app",
     ignorePatterns: ["_private", "Templates", ".obsidian"],
