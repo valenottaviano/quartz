@@ -9,10 +9,12 @@ import * as Plugin from "./quartz/plugins"
 const config: QuartzConfig = {
   configuration: {
     pageTitle: "Second Brain",
+    locale: "es-ES",
     enableSPA: true,
     enablePopovers: true,
     analytics: {
-      provider: "plausible",
+      provider: "google",
+      tagId: "G-G3NEWSEHXY"
     },
     baseUrl: "quartz-alpha.vercel.app",
     ignorePatterns: ["_private", "Templates", ".obsidian"],
@@ -51,6 +53,7 @@ const config: QuartzConfig = {
       },
     },
   },
+  
   plugins: {
     transformers: [
       Plugin.FrontMatter(),
