@@ -9,16 +9,12 @@ import * as Plugin from "./quartz/plugins"
 const config: QuartzConfig = {
   configuration: {
     pageTitle: "Notes",
-    pageTitle: "Second Brain",
     locale: "es-ES",
     enableSPA: true,
     enablePopovers: true,
-    locale: "es-ES",
     analytics: {
       provider: "google",
       tagId: "G-G3NEWSEHXY",
-      provider: "google",
-      tagId: "G-G3NEWSEHXY"
     },
     baseUrl: "quartz-alpha.vercel.app",
     ignorePatterns: ["_private", "Templates", ".obsidian"],

@@ -14,8 +14,6 @@ export default ((opts?: Options) => {
     return (
       <footer class={`${displayClass ?? ""}`}>
         Si el proyecto te sirve, considerá apoyarlo! <a href="https://cafecito.app/valenottaviano">Cafecito</a>
-        Si te sirve el proyecto, considerá apoyarlo!{" "}
-        <a href="https://cafecito.app/valenottaviano">Cafecito</a>
       </footer>
     )
   }
