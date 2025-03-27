@@ -15,9 +15,13 @@ El modelo CMMI ofrece **dos formas de representar la mejora de procesos** dentro
 - Permite asignar **niveles de capacidad** a cada proceso (de 0 a 5).
 - Es ideal para organizaciones que desean enfocar sus esfuerzos en **procesos clave** sin necesidad de abordar todo el modelo.
 
+![[Pasted image 20250326201341.png]]
+
 ### Representación por niveles
 
 - Agrupa los procesos en **niveles de madurez** organizacional, del 1 al 5.
 - Cada nivel incluye un conjunto predefinido de áreas de proceso que deben estar implementadas.
 - Requiere una **adopción progresiva y estructurada** del modelo.
 - Es la representación más común para organizaciones que buscan **certificación formal** o una evaluación global de su madurez.
+
+![[Pasted image 20250326201319.png]]
