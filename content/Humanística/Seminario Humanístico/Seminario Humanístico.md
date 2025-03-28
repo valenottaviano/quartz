@@ -14,6 +14,9 @@ Source:: [[]]
 ### 1. Introducción
 
 - [[La tecnología y las redes sociales]]
+	- [[10 razones para borrar tus redes sociales de inmediato]]
+	- [[Tecnofeudalismo]]
+	- [[Somos el producto, no el cliente]]
 -  Sobre cómo se relacionan la tecnología y la filosofía.
 -  La filosofía de la tecnología, como subdisciplina de la filosofía de la ciencia, busca explicar cómo influye la tecnología en el ser humano y en la sociedad.
 
