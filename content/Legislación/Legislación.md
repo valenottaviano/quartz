@@ -6,5 +6,11 @@ Course:: [[Legislación]]
 Source:: [[]]
 %%
 
-[[Conceptos de legislación]]
-[[Enfoques del derecho]]
+
+- [[Conceptos de legislación]]
+- [[Enfoques del derecho]]
+- [[Norma]]
+- [[Ley]]
+- [[Sentencia]]
+- [[Orden público]]
+- [[Persona]]

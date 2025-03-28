@@ -10,8 +10,11 @@ Source:: [[]]
 
 Un servidor es un nodo central dentro de una red que provee servicios a otros nodos, denominados clientes. Puede ser tanto una computadora especializada como una simple máquina dependiendo del uso requerido.
 
+- Una máquina que corre servicios.
+
 También puede referirse a un programa o proceso que proporciona servicios específicos a otras aplicaciones o procesos clientes, incluso dentro de una misma computadora.
 
+![[Pasted image 20250327202800.png]] ![[Pasted image 20250327203152.png]]
 #### Tipos de Servidores según su Funcionalidad:
 
 - **Servidor de impresión:** Administra impresoras, controla y organiza trabajos de impresión en red.
@@ -25,7 +28,7 @@ También puede referirse a un programa o proceso que proporciona servicios espec
 
 #### Tipos de Servidores según su Rol:
 
-- **Servidor dedicado:** Exclusivamente dedicado a administrar recursos de red, sin otras funciones.
+- **Servidor dedicado:** Exclusivamente dedicado a administrar recursos de red, sin otras funciones. 
 - **Servidor no dedicado:** También funciona como estación de trabajo, procesando solicitudes locales y de red.
 
 #### Servidores de Aplicaciones:
