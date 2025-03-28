@@ -1,4 +1,11 @@
-Source: [[Metodologías Ágiles]]
+# Elevator Pitch
+
+%%
+Date:: [[2025-03-28]]
+Course:: [[Seminario Emprendedor]]
+Source:: [[]]
+%%
+
 
 El "elevator pitch" es una técnica de comunicación que implica **presentar de manera concisa y persuasiva una idea, proyecto o producto** en el tiempo que tomaría un viaje en ascensor, generalmente de 30 segundos a 2 minutos. El objetivo principal es **captar la atención de la audiencia** y transmitir la información clave de manera efectiva. Aquí hay un enfoque paso a paso para crear un elevator pitch efectivo:
 
