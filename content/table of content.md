@@ -38,6 +38,7 @@ Work in Progress 👨‍🏭
 ## Seminarios/Otros
 - [[Formación Humanística II]] [[Formación Humanística III]] [[Formación Humanística IV]]
 - [[Seminario Humanístico]]
+- [[Seminario Emprendedor]]
 - [[Gestión Ambiental]]
 - [[Legislación]]
 
