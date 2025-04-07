@@ -13,3 +13,10 @@ Source:: [[]]
 - [[Vision y Misión]]
 - [[Modelo de Rivalidad de Porter]]
 - [[Matriz de Ansoff]]
+- Rivalidad Ampliada
+- Matriz BCG
+- Brainstorming
+- Matriz 4p Kottler
+- Modelo de negocio Lean Canva
+- Kanban
+- Six Sigma
