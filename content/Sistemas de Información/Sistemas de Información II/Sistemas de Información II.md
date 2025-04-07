@@ -6,4 +6,5 @@ Course:: [[Sistemas de Información II]]
 Source:: [[]]
 %%
 
-[[Proyectos de Software]]
+- [[Proyectos de Software]]
+- [[Gestión de proyectos de software]]
