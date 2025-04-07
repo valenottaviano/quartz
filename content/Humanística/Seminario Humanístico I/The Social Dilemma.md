@@ -2,7 +2,7 @@
 
 %%
 Date:: [[2025-03-23]]
-Course:: [[Seminario Humanístico]]
+Course:: [[Seminario Humanístico I]]
 Source:: [[La tecnología y las redes sociales]]
 %%
 
