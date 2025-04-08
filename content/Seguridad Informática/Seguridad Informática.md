@@ -10,3 +10,6 @@ Source:: [[]]
 	- [[Exploit]]
 - [[Mitos sobre la seguridad informática]]
 - [[EMSEC, TRANSSEC y TEMPEST]]
+
+- [[Conceptos básicos de la seguridad informática]]
+- [[Vulnerabilidad]]
