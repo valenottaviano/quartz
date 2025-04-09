@@ -19,6 +19,8 @@ Source:: [[]]
 	- Puede ser imposible demostrar si el software cumple, o no, de los requisitos
 	- Se gastará tiempo y dinero en construir un sistema equivocado
 
+### Factores que pueden cambiar los requerimientos
+
 - También impacta lo propenso a cambio que son los requisitos. Pueden cambiar por los siguientes factores:
 	- Deseo de los usuarios
 	- Especificaciones y requisitos incompletos
@@ -28,4 +30,21 @@ Source:: [[]]
 	- Capacidades tecnológicas inadecuadas
 	- Entre otros
 
-- 
+### Factores que causan el éxito de un proyecto
+
+- Participación del cliente
+- Soporte de administración ejecutiva
+- Requisitos claros
+
+
+Los mayores problemas en los proyectos de desarrollo de software se encuentran en la etapa de Especificación de Requisitos.
+
+
+### Algunos conceptos importante
+
+- Ingeniería de Requisitos de Software
+	- Métodos y técnicas que permiten descubrir, documentar y mantener los requisitos para sistemas de software, de forma sistemática y repetible
+- Requerimiento
+	- Configuración de una máquina M para que ejerza unos efectos R en un dominio D
+	- Capacidad del software solicitada para un usuario para resolver un problema y cumplir un objetivo
+	- Capacidad del software que debe ser cumplida o contenida por un sistema o un componente
