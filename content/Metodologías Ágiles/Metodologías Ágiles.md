@@ -16,7 +16,7 @@
 	- [[Elevator Pitch]]
 	- [[The Improvement Kata Pattern]]
 	- [[Kaizen Method]]
-- [[Design Thinking]]
+- [[Metodologías Ágiles/Design Thinking]]
 	- [[Design Sprint]]
 - [[Frameworks ágiles]]
 	- [[Framework Scrum]]
