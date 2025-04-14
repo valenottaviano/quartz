@@ -32,6 +32,7 @@ Planteos realizados desde la propia industria informática para comprender compl
 
 ### 2. El humanismo cristiano y la tecnología en la sociedad del conocimiento
 
+- [[Humanismo]]
 -  Investigación sobre teorías que plantean la dualidad entre considerar la tecnología como factor determinante o como simple instrumento en el desarrollo y progreso humano.
 -  El humanismo cristiano como un faro que recuerda que, junto con el avance tecnológico, es esencial preservar nuestra humanidad, utilizando la tecnología de manera que respete y promueva siempre la dignidad humana.
 -  Pregunta clave: ¿Lo técnicamente factible es siempre lo que deberíamos implementar en nuestras acciones?

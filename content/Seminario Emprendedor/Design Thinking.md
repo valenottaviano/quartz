@@ -6,9 +6,7 @@ Course:: [[Seminario Emprendedor]]
 Source:: [[]]
 %%
 
-
 Ref en curso de metodologías ágiles: [[Metodologías Ágiles/Design Thinking|Design Thinking]]
-
 
 ## Las 5 fases del proceso creativo
 
