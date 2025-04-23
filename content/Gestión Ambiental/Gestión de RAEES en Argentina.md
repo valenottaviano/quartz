@@ -62,4 +62,3 @@ Source:: [[]]
 	- Vidrio
 		- Hay que separarlos y procesarlos según sus distintas características y contenidos de materiales contaminantes
 	- Plaquetas y circuitos impresos
-		- 
