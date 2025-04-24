@@ -1,73 +1,144 @@
-# Criterios para selección de servidores
+# Criterios para Selección de Servidores
 
 %%
-Date:: [[2025-04-10]]
+Date:: [[2025-04-24]]
 Course:: [[Evaluación y Selección de Hardware]]
 Source:: [[]]
 %%
 
-- Básicamente, los servidores son computadoras (especiales)
-	- Estarán en servicio muchas horas, con mucha capacidad.
 
+La selección adecuada de un servidor implica evaluar aspectos clave relacionados con hardware, software, escalabilidad, seguridad y compatibilidad, de acuerdo a las necesidades actuales y futuras de la organización.
 
-- La configuración de hardware debe ser capaz de
-	- Estar acorde a las necesidades de la carga del procesamiento de datos. Para qué se va a usar? Cuántos usuarios la van a utilizar?
-	- Debe tener capacidad de crecer verticalmente en el mismo equipo y horizontalmente en otros equipos
-	- Fabricante que certifique calidad y tiempo de garantía y respuesta
-		- Soporte técnico local
-		- Velocidad de respuesta
+---
 
-- El servidor es el nodo central de la red
-	- Ejecuta todas las aplicaciones y servicios necesarios en la red
+## **1. Aspectos Generales del Servidor**
 
-### Aspectos de hardware
+- El servidor es el **nodo central de la red** que ejecuta aplicaciones y servicios necesarios.
+- Debe centralizar la carga de trabajo para eficiencia operativa.
 
-- Posee aspectos especiales que son las que lo diferencian de los domésticos
-	- Por ejemplo, posee la capacidad de hacer [[RAID]] de disco. Suelen tener una *placa raid* que es la que se encarga de la configuración de discos, con su propio procesador.
-		- Las placas raid tienen un caché donde, en el caso de un corte de luz, la placa almacena la operación que puede haber quedado pendiente.
-		- Las fake raid son raid que se realiza por software. Realiza el arreglo de discos, pero todo el procesamiento del raid lo realiza el CPU
-	- Siempre tiene que ser una controladora independiente!! No una fake raid
-- Es más preciso y soporta tareas más complejas
-	- Soporte para hot-plug. Se pueden cambiar componentes con el equipo funcionando
-- Soporta esquemas de tolerancia a fallos
-- Es robusto para soportar muchas horas de funcionamiento continuo
-	- Tiene un MTBF elevado. Parámetro que te dice la cantidad de horas que el fabricante asegura de uso correcto.
-	- Normalmente un servidor, luego de 5 años, ya habría que cambiar los discos.
-- No se debería usar una PC de escritorio como servidor!
+---
 
-### Aspectos de software
+## **2. Aspectos de Hardware**
 
-- Debe utilizar el hardware al 100%. 
-- Debe permitir mantenimiento
-- Máximo de estabilidad. Windows Server y Linux son los que más se utilizan en servidores.
-- Debe ofrecer servicios a otros equipos
-- Diseñado para ofrecer funcionalidad de red
-	- DHCP
-	- DNS
-	- FIREWALL
+### Características fundamentales:
 
+- **Alta precisión y capacidad para tareas complejas**.
+- Soporte **Hot-plug** (añadir/quitar componentes sin apagar).
+- Capacidad de **tolerancia a fallos** y robustez.
+- **MTBF** elevado (tiempo medio entre fallos alto).
 
-### Tipos de servidores (en función del uso)
+### Subsistemas del Hardware:
 
-- Servidores de aplicacines
-	- Servidores webs,
-- Servidores de correos electrónicos
-	- Relacionados con el email delivery
-- Servidores proxy
-	- Intermediario que limita el control a internet en las organizaciones
-- Servidores de streaming
-	- Para el flujo continuo de video o audio
+| Subsistema     | Elementos clave                           |
+| -------------- | ----------------------------------------- |
+| Procesamiento  | Microprocesadores, cantidad, núcleos      |
+| Memoria        | Cantidad, tipo (DIMM), capacidad failover |
+| Almacenamiento | Tipo (SATA/SAS), RAID, capacidad failover |
+| Redes          | NICs, cantidad, redundancia (failover)    |
 
-### Tipos de servidores (en función del hardware)
+---
 
-- Servidor blade
-	- Están diseñados para ser montados en racks
-	- ![[Pasted image 20250410205627.png]]
-		- Cada "hoja" es un servidor independiente a otro
+## **3. Aspectos del Software**
 
+El sistema operativo del servidor debe garantizar:
 
+- Uso eficiente del hardware.
+- Máxima estabilidad y facilidad de mantenimiento.
+- Provisión de servicios esenciales como DHCP, DNS, y Firewall.
 
+---
 
+## **4. Tipos de Servidores**
 
+### Servidores según Software:
 
+- **Aplicaciones:** Web, bases de datos, servicios cliente.
+- **Correo electrónico:** Gestión de email.
+- **Proxy:** Control acceso a internet.
+- **Streaming:** Contenido multimedia continuo.
+
+### Servidores según Hardware:
+
+| Tipo  | Descripción y uso recomendado                                                                                                                     |
+| ----- | ------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Torre | Básicos, ideales para oficinas pequeñas (<25 empleados). Fácil monitoreo y mantenimiento.                                                         |
+| Rack  | Mejor aprovechamiento de espacio, ideal para empresas medianas o con experiencia en servidores.                                                   |
+| Blade | Compactos, alta densidad, ideales para grandes centros de datos. Comparten fuentes de energía y refrigeración, reducen espacio, energía y costos. |
+
+---
+
+## **5. Consideraciones Antes de la Compra**
+
+### Necesidades actuales y futuras:
+
+- Identificar el **uso principal** del servidor y el tipo de red.
+- Número de nodos conectados y requisitos operativos.
+- Previsión de necesidades futuras (escalabilidad).
+
+### Capacidad de expansión:
+
+- Servidor con ranuras adicionales PCI/PCIX, bahías para discos extra.
+- Facilidad de añadir procesadores, memoria y almacenamiento externo.
+
+### Compatibilidad:
+
+- Cumplimiento de estándares del mercado.
+- Compatibilidad de memoria, discos adicionales y sistemas operativos.
+
+### Escalabilidad:
+
+- Capacidad de aumentar rendimiento (procesadores adicionales, memoria, almacenamiento).
+- Posibilidad de actualizaciones fáciles y eficientes.
+
+### Seguridad:
+
+- Protección ante fallos y amenazas.
+- Posibilidad de robustecer el sistema conforme aumenta la carga y número de usuarios.
+
+---
+
+## **6. Procesadores**
+
+### Familia Intel Xeon (E3 y E7):
+
+**Características destacadas:**
+
+- Hasta 10 núcleos y 20 hilos.
+- Alta caché (30 MB L3 compartida).
+- Compatibilidad con grandes cantidades de memoria (hasta 2 TB).
+- Eficiencia energética con Intel Intelligent Power.
+- Seguridad avanzada (AES-NI, Intel TXT).
+- Mayor productividad y reducción significativa de costos operativos.
+- Intel Turbo Boost y Hyper-Threading para un mejor desempeño y adaptabilidad a cargas de trabajo dinámicas.
+
+---
+
+## **7. Configuración Específica del Hardware**
+
+### Procesadores:
+
+- **Velocidad de reloj:** más GHz implica mejor desempeño.
+- **Cantidad de núcleos:** múltiples núcleos permiten multitareas simultáneas eficientemente.
+- **Caché:** mayor caché mejora la rapidez y eficiencia general.
+
+### Memoria RAM:
+
+- Debe maximizarse según lo permita el presupuesto, para reducir la lentitud causada por acceso constante a discos duros.
+
+### Almacenamiento:
+
+- Disco rígido principal de gran capacidad con posibilidad de expansión interna y externa.
+- Uso de sistemas RAID para mayor confiabilidad y rendimiento en almacenamiento.
+
+---
+
+## **8. Fabricantes y Soporte Técnico**
+
+Considerar marcas reconocidas que garanticen: IBM (hoy Lenovo), dell, hp
+
+- Soporte técnico local eficaz.
+- Tiempo de respuesta rápido en casos de falla.
+- Amplias garantías y respaldo técnico certificado.
+
+![[Pasted image 20250424201118.png]]
 

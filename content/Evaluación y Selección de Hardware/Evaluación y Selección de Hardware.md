@@ -7,5 +7,8 @@ Source:: [[]]
 %%
 
 
-[[Servidores]]
+- [[Servidores]]
+- [[Virtualización en Servidores]]
+- [[Criterios para selección de servidores]]
+	- [[Tipos de servers]]
 
