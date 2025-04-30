@@ -21,4 +21,40 @@ Source:: [[Especificación de requisitos]]
 	- Una ERS es completa si todo lo que se supone que el software debe hacer está incluido en ella. La mayoría de los requisitos son triviales lo que hace imposible su especificación. Si se intenta especificarlos, puede consumir demasiado tiempo provocando la pérdida de calidad y tornando poco entendible la especificación. Se deberá asegurar que los requisitos no triviales se encuentran especificados (satisfacer las metas del negocio).
 - Correcta
 	- Todo requisitos de la ERS contribuye a satisfacer una necesidad real. Un problema típico en la práctica es que la necesidad actual es algo diferente (el analista no entendió) o que el cliente no necesita realmente esa característica.
+- Comprensible
+	- Todo tipo de lectores (cliente, usuarios, desarrolladores, equipo de pruebas, gestores, etc.) entienden la ERS.
+- Verificable
+	- Para cada requisito expresable en la ERS existe un procedimiento de prueba finito.
+- Internamente Consistente
+	- NO existen conjuntos de requisitos contradictorios.
+- Externamente Consistente
+	- ninguno de los requisitos está en contradicción con lo expresado en documentos de nivel superior
+- Realizable
+	- Si, dados los actuales recursos, la ERS es realizable.
+- Concisa
+	- La ERS debe ser lo más breve posible, sin que esto afecte al resto de atributos de calidad.
+- Independiente del diseño
+	- Existen más de un diseño e implementación, por lo tanto debe limitarse a describir el comportamiento externo del sistema software.
+- Trazable
+	- Cada requisito se puede referenciar en forma unívoca. Una especificación es trazable si se puede ver de dónde vienen los requisitos y dónde son empleados en el diseño y el código.
+- Modificable
+	- Cada requisito se puede referenciar en forma unívoca. Una especificación es trazable si se puede ver de dónde vienen los requisitos y dónde son empleados en el diseño y el código.
+- Electrónicamente almacenable
+	- Está almacenada en procesadores de texto, bases de datos, o mejor aún en una herramienta de gestión de requisitos (Rational RequisitePro, Doors, Etc.).
+- Anotada por Importancia relativa
+	- Si los requisitos se clasifican según su importancia, como mínimo un requisito puede ser “Obligatorio, Opcional o deseable”.
+- Anotada por estabilidad relativa
+	- a cada requisito se le asigna una probabilidad de cambio. Ej. (Alta, Media, Baja)
+- Anotada por versión
+	- cuando un lector de la ERS, puede determinar en que versión del producto se satisfacerá algún requisito.
+- No redundante
+	- cada requisito se expresa en un solo lugar de la ERS.
+- Precisa
+	- una ERS es precisa si hace uso de valores numéricos para indicar las características del sistema.
+- Reutilizable
+	- si ciertas secciones de la ERS se pueden reutilizar.
+- Organizada
+	- Si el lector puede fácilmente encontrar la información buscada.
+- Con referencias cruzadas
+	- se debe utilizar referencias cruzadas entre requisitos, si es necesario, ya que esto describe mucho más las necesidades del sistema.
 
