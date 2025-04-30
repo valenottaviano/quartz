@@ -1,4 +1,4 @@
-# Marco normativo de la saludo y seguridad en el trabajo
+# Marco normativo de la salud y seguridad en el trabajo
 
 %%
 Date:: [[2025-04-22]]

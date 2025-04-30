@@ -6,6 +6,7 @@ Course:: [[Gestión Ambiental]]
 Source:: [[]]
 %%
 
+## Introducción
 - [[Introducción a la Gestión Ambiental]]
 - [[Hidrología de Tucumán]]
 - [[Problemas ambientales en Tucumán]]
@@ -24,8 +25,13 @@ Source:: [[]]
 - [[La economía circular]]
 - [[Gestión de RAEES en Argentina]]
 
-## Saludo y Seguridad
-- [[Marco normativo de la saludo y seguridad en el trabajo]]
+## Salud y Seguridad
+- [[Marco normativo de la salud y seguridad en el trabajo]]
+- [[Prevención de riesgo en el trabajo]]
+
+## Problemas Ambientales Generales
+- [[Actores ambientales]]
+- [[Contaminación del Aire]]
 
 
 --- 
