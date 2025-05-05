@@ -8,3 +8,5 @@ Source:: [[]]
 
 - [[Proyectos de Software]]
 - [[Gestión de proyectos de software]]
+- [[Matriz de Expectativas]]
+- [[Gestión de Riesgos]]
