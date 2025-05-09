@@ -11,4 +11,5 @@ Source:: [[]]
 - [[Virtualización en Servidores]]
 - [[Criterios para selección de servidores]]
 	- [[Tipos de servers]]
+- [[Almacenamiento en Redes IP]]
 

@@ -20,4 +20,5 @@ Source:: [[]]
 	- [[Trabajo Humano]]
 	- [[Trabajo autónomo, benévolo y familiar]]
 	- [[Contrato de trabajo (art 4)]]
-	- 
+	- [[Trabajo en la ley del contrato de trabajo]]
+	- [[Relación de dependencia]]
