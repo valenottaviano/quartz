@@ -8,6 +8,8 @@ Source:: [[]]
 
 Ref en curso de metodologías ágiles: [[Metodologías Ágiles/Design Thinking|Design Thinking]]
 
+- El design thinking se encuentra dentro del marco de las metodologías ágilas.
+
 ## Las 5 fases del proceso creativo
 
 |Fase|Objetivo general|Métodos clave asociados|
@@ -33,11 +35,17 @@ Ref en curso de metodologías ágiles: [[Metodologías Ágiles/Design Thinking|D
 - **Mapa de trayectoria**: Representar experiencias del usuario en una línea de tiempo.
 - **Personas**: Construcción de perfiles semi-ficticios con datos reales para enfocar el diseño.
 
+Nunca voy a poder sentir lo mismo que el cliente.
+Fases
+1. Observación
+2. Escucha activa
+
+
 ---
 
 ### 2. DEFINIR
 
-- **Definir el problema jugando**: "El [usuario] necesita [verbo] porque [insight]".
+- **Definir el problema jugando**: "El (usuario) necesita (verbo) porque (insight)".
 - **Checklist de lectura crítica**:
     1. ¿Cuál es el punto?
     2. ¿Quién lo dice?
