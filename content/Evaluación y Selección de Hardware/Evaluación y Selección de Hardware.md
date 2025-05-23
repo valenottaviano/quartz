@@ -12,4 +12,5 @@ Source:: [[]]
 - [[Criterios para selección de servidores]]
 	- [[Tipos de servers]]
 - [[Almacenamiento en Redes IP]]
+- [[Elementos constitutivos de hardware]]
 
