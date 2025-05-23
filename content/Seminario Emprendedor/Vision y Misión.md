@@ -9,6 +9,7 @@ Source:: [[]]
 ## ¿Qué es la **misión**?
 
 La **misión** responde a la pregunta: **¿Para qué existe la organización?**
+- Relacionado con las metas y objetivos de la empresa
 
 Es una declaración concisa que describe el **propósito actual** de la empresa, **a quién sirve**, **qué ofrece** y **cómo lo hace**.
 
@@ -28,6 +29,7 @@ Es una declaración concisa que describe el **propósito actual** de la empresa,
 ## ¿Qué es la **visión**?
 
 La **visión** responde a la pregunta: **¿Hacia dónde quiere ir la organización?**
+- Es un propósito a largo plazo, y se caracteriza por ser algo etéreo (algo que nunca voy a llegar...)
 
 Es una declaración aspiracional que describe el **futuro deseado** de la empresa: qué quiere llegar a ser o lograr en el mediano o largo plazo.
 
