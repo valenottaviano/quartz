@@ -79,3 +79,4 @@ proveedores                                     clientes
         Amenaza de productos sustitutos
 ```
 
+![[Pasted image 20250526101721.png]]
