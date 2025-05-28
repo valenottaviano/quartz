@@ -1,0 +1,1 @@
+La diferencia principal entre un grupo y un equipo es que el equipo existen roles diferenciados entre sus miembros
