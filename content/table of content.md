@@ -35,13 +35,11 @@ Work in Progress 👨‍🏭
 - [[Organización Empresarial]]
 - [[Evaluación de Proyectos de Inversión]]
 
-## Seminarios/Otros
+## Seminarios/Cursos
+- [[Python]]
+- [[Metodologías Ágiles]]
 - [[Formación Humanística II]] [[Formación Humanística III]] [[Formación Humanística IV]]
 - [[Seminario Humanístico I]]
 - [[Seminario Emprendedor]]
 - [[Gestión Ambiental]]
 - [[Legislación]]
-
-## Cursos
-- [[Python]]
-- [[Metodologías Ágiles]]
