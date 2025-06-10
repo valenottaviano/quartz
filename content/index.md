@@ -11,7 +11,6 @@ Inicia por aquí!! 👉 [[table of content]]
 
 ¡Bienvenido a mi repositorio digital de apuntes construido durante mi recorrido por la universidad! En este proyecto, he reunido lecciones y experiencias de mi tiempo estudiando ingeniería en informática. 
 
-![[Pasted image 20240906201133.png]]
 
 ### Cómo Navegar
 Para aprovechar al máximo este recurso, considera lo siguiente:

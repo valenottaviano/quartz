@@ -3,7 +3,7 @@
 
 # Change to the destination directory
 
-cd /home/winston/Documents/quartz/
+cd /home/valen/Documents/quartz/
 # Add all changes to Git
 git add .
 
