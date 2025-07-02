@@ -1,5 +1,82 @@
 [[Seguridad Informática]]
 
+
+### 1. ¿Qué objetivo persigue la seguridad informática?
+- A. Proteger la confidencialidad, integridad y disponibilidad de la información.
+- B. Aumentar la capacidad de almacenamiento.
+- C. Mejorar la velocidad de procesamiento.
+
+---
+
+### 2. ¿Qué es la confidencialidad?
+- A. Garantizar que la información solo sea accesible a quienes están autorizados.
+- B. Evitar la pérdida de datos.
+- C. Permitir la disponibilidad del sistema.
+
+---
+
+### 3. ¿Qué es la integridad?
+- A. Garantizar la disponibilidad de los sistemas.
+- B. Asegurar la exactitud y consistencia de la información.
+- C. Evitar accesos no autorizados.
+
+---
+
+### 4. ¿Qué es la disponibilidad?
+- A. Garantizar el acceso oportuno y confiable a los sistemas y datos.
+- B. Evitar la modificación no autorizada de datos.
+- C. Proteger contra intrusiones.
+
+---
+
+### 5. La protección lógica comprende:
+- A. El uso de cerraduras físicas.
+- B. Antivirus, firewalls y contraseñas.
+- C. Sistemas de alarma contra incendios.
+
+---
+
+### 6. ¿Qué es la protección física?
+- A. Antivirus y firewalls.
+- B. Medidas que impiden el acceso físico no autorizado.
+- C. Contraseñas seguras.
+
+---
+
+### 7. ¿Cuáles son las consecuencias de no proteger adecuadamente los activos de información?
+- A. Pérdida de confidencialidad, integridad y disponibilidad.
+- B. Reducción de la velocidad de procesamiento.
+- C. Mejora automática de la seguridad.
+
+---
+
+### 8. ¿Qué es una amenaza?
+- A. Una debilidad en el sistema.
+- B. Evento que puede causar un incidente afectando la organización.
+- C. Herramienta de protección.
+
+---
+
+### 9. ¿Qué es una vulnerabilidad?
+- A. Debilidad o fallo que puede ser explotado para violar la seguridad.
+- B. Software antivirus.
+- C. Política de seguridad.
+
+---
+
+### 10. ¿Qué es el riesgo?
+- A. La posibilidad de que un evento o acción cause daño a los activos.
+- B. Actualización del software.
+- C. Realización de copias de seguridad.
+
+---
+
+### 11. ¿Por qué es tan importante el centro de cómputos?
+- A. Porque resguarda la información crítica de la organización.
+- B. Porque acelera la conexión a internet.
+- C. Porque almacena publicidad.
+
+---
 ### 12. Causan que los recursos de un sistema sean inaccesibles a los usuarios legítimos:
 - A. Ataque de fuerza bruta
 - B. Ingeniería social
