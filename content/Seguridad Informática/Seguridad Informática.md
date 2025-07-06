@@ -6,6 +6,8 @@ Course:: [[Seguridad Informática]]
 Source:: [[]]
 %%
 
+[[Examen Seguridad Informática]]
+
 - [[Ransomware]]
 	- [[Exploit]]
 - [[Mitos sobre la seguridad informática]]

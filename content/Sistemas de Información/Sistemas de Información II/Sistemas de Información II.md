@@ -6,6 +6,8 @@ Course:: [[Sistemas de Información II]]
 Source:: [[]]
 %%
 
+[[Examen Sistemas de Información 2]]
+
 - [[Proyectos de Software]]
 - [[Gestión de proyectos de software]]
 - [[Matriz de Expectativas]]

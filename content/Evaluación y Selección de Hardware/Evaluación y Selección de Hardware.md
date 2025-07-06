@@ -6,6 +6,8 @@ Course:: [[Evaluación y Selección de Hardware]]
 Source:: [[]]
 %%
 
+[[Examen Eval y Selec de Hardware]]
+
 
 - [[Servidores]]
 - [[Virtualización en Servidores]]
@@ -14,4 +16,3 @@ Source:: [[]]
 - [[Almacenamiento en Redes IP]]
 - [[Elementos constitutivos de hardware]]
 - [[Sistemas en cluster]]
-
