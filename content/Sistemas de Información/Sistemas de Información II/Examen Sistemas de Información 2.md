@@ -108,11 +108,12 @@ Perfiles de usuario (modo examen final vs. período regular). Temas visuales (os
 
 ## Se le pide
 
-1. **Elabore una Matriz de Expectativas** respecto del sistema solicitado por el cliente. Incluya al menos 3 expectativas bien definidas, con su prioridad, parámetro de medición, valor actual/deseado, fecha y acciones sugeridas.
-2. **Identifique al menos 4 riesgos relevantes** para la implementación del sistema. Para cada uno:
-    - Describa la causa y el efecto.
-    - Complete una **Matriz de Riesgo (probabilidad e impacto)** asignando un nivel cualitativo (bajo, medio, alto).
-    - Proponga **acciones de mitigación** concretas.
-    - Defina un **plan de contingencia** si el riesgo llegara a materializarse.
-3. **Construya una Estructura de Desglose del Trabajo (EDT)** para el proyecto, llegando al nivel de tareas específicas. Indique la relación jerárquica y la identificación de cada componente.
-4. **Plantee un Cronograma Tentativo** con fechas de inicio y fin para cada tarea del EDT. Incluya dependencias entre tareas principales y estimaciones de esfuerzo en horas.
+1. Explique cómo elaboraría un Plan de Adquisiciones para el proyecto, considerando tanto el software como el hardware necesarios.
+2. Describa los pasos que seguiría en un proceso de planificación del proyecto.Además, elabore una Estructura de Desglose del Trabajo (EDT) hasta nivel 3, incluyendo los entregables correspondientes a las fases de Prototipo y Producto Mínimo Viable (MVP).
+3. Indique las etapas que implementaría para realizar el seguimiento del proyecto.
+4. En relación con la gestión de riesgos:
+	- Identifique al menos tres riesgos relevantes.
+	- Elabore una Matriz de Riesgo para cada uno, indicando su valor cualitativo de criticidad.
+	- Proponga un plan de mitigación adecuado.
+	- Confeccione la Matriz de Riesgo Remanente.
+	- Diseñe un plan de contingencia por si el riesgo se concreta.
