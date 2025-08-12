@@ -25,6 +25,7 @@ Work in Progress 👨‍🏭
 - [[Seguridad Informática]]
 - [[Auditoría de Sistemas]]
 - [[Evaluación y Selección de Hardware]]
+- [[Robótica]]
 
 ## Programación
 - [[Programación I]]  [[Programación II]]  [[Programación III]]
@@ -43,3 +44,4 @@ Work in Progress 👨‍🏭
 - [[Seminario Emprendedor]]
 - [[Gestión Ambiental]]
 - [[Legislación]]
+- [[Seminario de Oratoria]]
