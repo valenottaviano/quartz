@@ -26,6 +26,7 @@ Work in Progress 👨‍🏭
 - [[Auditoría de Sistemas]]
 - [[Evaluación y Selección de Hardware]]
 - [[Robótica]]
+- [[Testing y Calidad]]
 
 ## Programación
 - [[Programación I]]  [[Programación II]]  [[Programación III]]
