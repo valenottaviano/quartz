@@ -46,3 +46,4 @@ Work in Progress 👨‍🏭
 - [[Gestión Ambiental]]
 - [[Legislación]]
 - [[Seminario de Oratoria]]
+- [[Gestión de RRHH]]
