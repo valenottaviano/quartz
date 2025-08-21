@@ -11,12 +11,22 @@ Source:: [[]]
 - Tiene dos enfoques distintos
 	- Positivo: Actividad dirigida a evaluar un atributo o capacidad del sistema para determinas si cumple con los resultados esperados.
 	- Negativo: Proceso en el que se ejecuta un programa o aplicación con la intención de encontrar errores del software
-- Un tester debe ser
+
+---
+
+- Un tester debe ser (habilidades blandas)
 	- Observador
 	- Analítico
 	- Proactivo
 	- Curioso
 	- Detallista
 	- Comunicador
-
+	- Trabaja en equipo
+- Habilidades técnicas
+	- Diseñar casos de prueba
+	- Ejecutar casos de prueba
+	- Reportar defectos
+- Conocimientos deseables
+	- Programación para automatización
+	- Manejo de bases de datos
 
