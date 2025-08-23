@@ -20,15 +20,22 @@ Source:: [[]]
 			- Lo que se ha conseguido
 	- Se busca una intersección entre las 3 calidades -> Calidad percibida
 
+![[Pasted image 20250823165526.png]]
 
 ### Modelo de calidad
-- *Completar definición*
-
+- Documentos que contienen buenas prácticas, proponen temas de administración en los que cada organización debe hacer énfasis, integran diferentes prácticas dirigidas a los procesos clave y permiten medir los avances en calidad.
 
 ### Estándares de calidad
-- *Completar definición*
+- Definen un conjunto de criterios de desarrollo que guían la forma en que se aplica la Ingeniería del Software. Suministran los medios para que todos los procesos se realicen de la misma forma y son una guía para lograr la productividad y la calidad.
 
-
-### Producto de proceso
-
+### Producto vs. proceso
 - Sus calidades son distintas, pero no podemos pretender un producto de buena calidad, sin tener procesos de buena calidad.
+
+### Modelo vs Estándares
+![[Pasted image 20250823165801.png]]
+
+### Aseguramiento vs control de la calidad
+![[Pasted image 20250823165839.png]]
+
+### Dimensiones de la calidad
+![[Pasted image 20250823170137.png]]
