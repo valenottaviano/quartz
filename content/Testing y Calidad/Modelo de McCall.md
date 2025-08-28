@@ -7,9 +7,8 @@ Source:: [[]]
 %%
 
 
-# Apunte Teórico: Modelo de Calidad de McCall
+- Divide la calidad en tres ramas, luego en factores para cada una, y por último en criterios.
 
-## Introducción
 
 El **modelo de McCall** (1977), también conocido como **McCall’s Quality Model**, fue uno de los primeros intentos sistemáticos de definir y medir la **calidad del software**. Fue desarrollado por James McCall en el contexto de proyectos de software para la Fuerza Aérea de los Estados Unidos, en una época en la que la crisis del software evidenciaba la necesidad de establecer **estándares de calidad claros y medibles**.
 
@@ -69,15 +68,11 @@ Vinculados con la portabilidad del software hacia otros entornos.
 - **Reusabilidad**: posibilidad de reutilizar componentes en otros sistemas.
 - **Interoperabilidad**: capacidad para interactuar con otros sistemas.
 
----
-
 ## Ventajas del modelo de McCall
 
 - Fue **precursor** de modelos más modernos como **ISO 9126** e **ISO 25010**.
 - Estableció un lenguaje común entre **usuarios, desarrolladores y evaluadores**.
 - Ofrece una visión integral (operación, revisión y transición).
-
----
 
 ## Limitaciones
 
