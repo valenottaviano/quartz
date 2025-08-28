@@ -109,3 +109,13 @@ Source:: [[]]
 - Fallo
 	- Manifestación del defecto en el sistema.
 	- Cuando el defecto si es procesado y arrastra ese error en otras cosas
+
+## Principios generales del testing
+
+1. El testing muestra la presencia de defectos, no su ausencia
+2. No es posible realizar un testing exhaustivo (conjunto infinito)
+3. El testing debe comenzar lo antes posible
+4. Los defectos tienden a estar agrupados
+5. La paradoja del pesticida
+6. Las pruebas son dependientes del contexto
+7. Suponer que un sistema sin ninguna falla es útil
