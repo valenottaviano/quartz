@@ -7,3 +7,4 @@ Source:: [[]]
 %%
 
 ![[Pasted image 20250826093738.png]]![[Pasted image 20250826094038.png]]
+![[Pasted image 20250901183603.png]]
