@@ -1,4 +1,4 @@
-# Fundamentos del Testing
+	# Fundamentos del Testing
 
 %%
 Date:: [[2025-08-28]]
@@ -113,9 +113,21 @@ Source:: [[]]
 ## Principios generales del testing
 
 1. El testing muestra la presencia de defectos, no su ausencia
+	- Nosotros podemos afirmar que encontramos n cantidad de fallas, pero no podemos probar que no quedan. 
+	- Podemos reducir la probabilidad de que continúen existiendo, pero nunca podremos afirmar la ausencia.
 2. No es posible realizar un testing exhaustivo (conjunto infinito)
+	- Podemos hacer una cantidad de pruebas, pero el número de casos en un sistema complejo tiende a infinito, pero nunca podremos abarcar todos
 3. El testing debe comenzar lo antes posible
+	- Deben empezar lo antes posible, junto con el desarrollo de software
+	- **Shift left testing**
+		- ![[Pasted image 20250904190642.png]]
 4. Los defectos tienden a estar agrupados
+	- Se ha llegado a esta conclusión por experiencia. Muchas veces alguna funcionalidad la desarrolla un equipo, y puede que ese equipo tenga un inconveniente.
 5. La paradoja del pesticida
+	- Si la prueba se repiten una y otra vez, tienden a perder su eficacia.
+	- Para mantener la efectividad, hay que hacer cambios y modificarlas.
 6. Las pruebas son dependientes del contexto
+	- las pruebas se deben adaptar al contexto del software, no hay pruebas que sirvan para todos los sistemas.
 7. Suponer que un sistema sin ninguna falla es útil
+	- El sistema debe satisfacer las necesidades del cliente, no tiene sentido testearlo hasta el infinito.
+	- Hacer testing no asegura que satisfaga las necesidades del cliente.
