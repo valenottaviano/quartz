@@ -19,3 +19,4 @@ Source:: [[]]
 9. Relaciones laborales
 
 - [[Proceso de Recruiting]]
+- [[Assessment Center]]
