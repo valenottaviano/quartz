@@ -54,6 +54,6 @@ Características:
 	-  Sistemas y modelos físicos que utiliza la unidad de control.
 - [[Fuentes de energía]]
 	- 
-- [[Unidades de control]]
+- [[Unidades de Control]]
 	- Es aquella que termina ecualizando todos los datos en un sistema binario, y con eso tomar decisiones.
 	- Donde hay una computadora hay un software.
