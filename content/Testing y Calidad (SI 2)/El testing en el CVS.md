@@ -14,26 +14,29 @@ Source:: [[]]
 	- incremental
 ## Modelo Waterfall
 
-- flujo secuencial y lineal de actividades
+- Describe el proceso de desarrollo de software como un flujo secuencial y lineal de actividades.
 - cada fase comienza solo cuando termina la anterior
 ![[Pasted image 20250911194251.png]]
 ## Modelo en V
 
 ![[Pasted image 20250911194325.png]]
+- Es una evolución del método en cascada tradicional. Dice que las pruebas deben comenzarse lo más pronto posible.
+	- Integra las pruebas en cada fase del ciclo de vida.
 - Una vez que se codifica, comienza la etapa de pruebas (rama derecha)
-- Relacionado con el principio shift left testing (comenzar lo antes posible)
-## Niveles de prueba 
-(agregar gráfico de la presentación)
+- **Relacionado con el principio shift left testing (comenzar lo antes posible)**
 
-- pruebas unitarias
-- pruebas de integración
-- pruebas de sistemas
-- pruebas de aceptación
-## Tipos de prueba
-
+[[Fundamentos del Testing#Verificación vs Validación]]
+### Niveles de prueba en V Model 
+![[Pasted image 20250922091204.png]]
+![[Pasted image 20250922091228.png]]
+### Tipos de prueba
+Grupo de actividades de pruebas destinadas a probar características puntuales de un software o parte del mismo, con un objetivo de prueba específico.
+Un tipo de prueba puede tener lugar en uno o más niveles de prueba
 - pruebas funcionales
 - pruebas no funcionales
 - pruebas de estructura
+![[Pasted image 20250922091350.png]]
+![[Pasted image 20250922091417.png]]
 ### Alpha testing vs Beta testing
 
 | Aspecto                               | Alpha Testing                                                                              | Beta Testing                                                                                  |
@@ -51,7 +54,15 @@ Source:: [[]]
 ## División de ambiente
 
 - Desarrollo
-- Pruebas
+	- Es donde las áreas de sistemas realizan los desarrollos, en distintas plataformas
+	- En general es un ambiente manejado por desarrolladores, donde  cargan diferentes herramientas frameworks, componentes, etc., los usen o no.
+	- Normalmente no está controlado en forma muy rígida.
+- Pruebas|Testing|Homologación|Pre-producción|Staging
+	- Donde se implementan los cambios realizados en desarrollo.
+	- Tiene que ser exacto al de producción, debe haber alguna garantía que lo que se prueba en este ambiente, se comportará de la misma manera que cuando el usuario lo ejecute en producción.
+	- En cuanto a los datos disponibles en este ambiente, tienen que ser análogos a los de producción, siempre que no sean datos sensibles.
 - Producción
+	- Es donde opera el sistema.
+	- Es donde se realiza el negocio en cuestión.
 
 

@@ -27,7 +27,7 @@ Source:: [[]]
 
 ## Verificación vs Validación
 
-- Verificaición
+- Verificación
 	- **Pregunta clave**: _“¿Estamos construyendo el producto correctamente?”_
 	- Se centra en comprobar que el software cumple con las **especificaciones** y requisitos definidos en documentos de diseño, arquitectura o casos de uso.
  - Validación
