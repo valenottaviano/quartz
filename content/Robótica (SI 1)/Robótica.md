@@ -14,4 +14,7 @@ https://seo.unsta.edu.ar/course/view.php?id=732
 - [[Introducción a la Robótica]]
 - [[Grados de Libertad]]
 - [[Actuadores]]
+- [[Sensores]]
 - [[Tema extra, torque]]
+- [[Unidades de Control]]
+- [[Programación en robótica]]
