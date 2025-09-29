@@ -112,3 +112,27 @@ void loop() {
 	- devuelve un `long` y no detiene el ciclo loop como si lo hace `delay()`
 
 
+Ejercicio 
+- Inicialmente el led amarillo está apagado. Presiono n segundos el botón. Luego, el led estará encendido n segundos y se vuelve a apagar.
+
+```c
+void loop() {
+  // Estado 0: Esperando pulsador
+  digitalWrite(PIN_LED_AMARILLO, LOW);
+  long momento_presiono = 0;
+  long momento_suelto = 0;
+  long lap = 0;
+
+  // Estado 1: Se presiona el pulsador
+  if (estaPulsado()) {
+    momento_presiono = millis();
+    while (estaPulsado()) {
+      momento_suelto = millis();
+    }
+    // Estado 2: Se suelta el pulsador
+    lap = momento_suelto - momento_presiono;
+    activaLED1(HIGH);
+    delay(lap);
+  }
+}
+```
