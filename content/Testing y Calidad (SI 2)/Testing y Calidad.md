@@ -18,3 +18,4 @@ esteban.sal@unsta.edu.ar
 - [[Proceso de pruebas]]
 - [[El testing en el CVS]]
 - [[Que es probar]]
+- [[Técnicas de Diseño de Testing]]
