@@ -120,3 +120,21 @@ Source:: [[]]
 ![[Pasted image 20250925152558.png]]
 
 [[Pruebas Happy Path]]
+
+
+
+![[Pasted image 20251009192622.png]]
+- TC -> Test Case
+- TS -> ToolShop
+- 002 -> Número de historia de usuario
+- 01 -> Numero de caso de prueba de esa historia de usuario
+
+
+- Escenarios posibles para la historia de usuario 1
+
+| User story | Escenario identificado                        | Condiciones /datos prueba    |
+| ---------- | --------------------------------------------- | ---------------------------- |
+| 002        | Happy path - registración válida              | John, Doe, john.doe@mail.com |
+| 002        | Falta un campo obligatorio                    |                              |
+| 002        | Registrar mail existente                      |                              |
+|            | Usar fecha de nacimiento con formato inválido |                              |
