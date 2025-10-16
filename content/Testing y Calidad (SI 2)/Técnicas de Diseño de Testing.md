@@ -100,7 +100,6 @@ Source:: [[]]
 
 ## Técnicas de prueba (basados en la experiencia)
 
-
 #### Predicción de errores
 - Se basan en el conocimiento y la experiencia del tester, que ayudan a derivar casos de pruebas que anticipen equivocaciones, defectos, fallos.
 - Incluye
