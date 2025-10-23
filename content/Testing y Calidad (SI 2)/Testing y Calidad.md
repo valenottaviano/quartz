@@ -2,7 +2,7 @@
 
 %%
 Date:: [[2025-08-14]]
-Course:: [[]]
+Course:: [[Testing y Calidad]]
 Source:: [[]]
 %%
 
@@ -20,3 +20,4 @@ esteban.sal@unsta.edu.ar
 - [[Que es probar]]
 - [[Técnicas de Diseño de Testing]]
 - [[Ejecución de casos de prueba]]
+- [[Defecto]]
