@@ -21,3 +21,5 @@ esteban.sal@unsta.edu.ar
 - [[Técnicas de Diseño de Testing]]
 - [[Ejecución de casos de prueba]]
 - [[Defecto]]
+- [[Organización de las pruebas]]
+- [[Automatización de testing]]
