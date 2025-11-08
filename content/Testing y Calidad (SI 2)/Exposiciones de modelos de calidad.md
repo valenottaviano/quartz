@@ -82,6 +82,4 @@ Source:: [[]]
 | **Six Sigma for Software** | Reducción de defectos y variabilidad | Procesos de desarrollo y pruebas | Resultados medibles                   | Complejidad estadística               |
 | **COBIT 5.0**              | Gobierno y gestión de TI             | Corporativo / Estratégico        | Alinea TI con negocio                 | Poco específico al software           |
 | **FURPS**                  | Clasificación de requisitos          | Proyecto / Producto              | Claridad en requisitos no funcionales | Necesita otros marcos complementarios |
-📌 **Conclusión**:  
-Estos modelos y normas no compiten, sino que se complementan. Mientras **CMMI** y **Six Sigma** se enfocan en procesos, **COBIT** aborda el gobierno de TI, y **FURPS** e **ISO 9126-1** se centran en atributos y requisitos de calidad del software. Una estrategia integral de calidad suele combinarlos según el nivel (organizacional, proceso, producto) y las necesidades de la empresa.
 

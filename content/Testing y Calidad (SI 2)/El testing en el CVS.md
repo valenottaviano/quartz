@@ -29,12 +29,28 @@ Source:: [[]]
 ### Niveles de prueba en V Model 
 ![[Pasted image 20250922091204.png]]
 ![[Pasted image 20250922091228.png]]
+
+1. Pruebas unitarias
+	- Está enfocada a verificar los componentes del software, pueden ser una función, un método, una clase, un módulo. Se realiza sobre una unidad de código. La realizan desarrolladores.
+2. Pruebas de integración
+	- Además de probar los componentes de manera independiente, es necesario integrarlos para verificar que las interacciones se han implementado de la manera adecuada. La realizan desarrolladores.
+3. Pruebas de sistemas
+	- Se enfoca en verificar si el sistema integrado cumple sus especificaciones. Trata de determinar si el sistema en su globalidad opera de manera satisfactoria. Las realizan los testers.
+4. Pruebas de aceptación
+	- Se encargan de validar si el software cumple las necesidades por las que han sido creado. La realizan usuarios y clientes. 
+
 ### Tipos de prueba
 Grupo de actividades de pruebas destinadas a probar características puntuales de un software o parte del mismo, con un objetivo de prueba específico.
 Un tipo de prueba puede tener lugar en uno o más niveles de prueba
 - pruebas funcionales
+	- Evaluan las funcionalidades del sistema, definidas en los requisitos, es lo que hace el sistema.
 - pruebas no funcionales
+	- Evaluan las características del sistema, están relacionadas a como se comporta el sistema
 - pruebas de estructura
+	- Evaluan la estructura interna del sistema, están realacionadas con como está desarrollado el sistema.
+
+
+
 ![[Pasted image 20250922091350.png]]
 ![[Pasted image 20250922091417.png]]
 ### Alpha testing vs Beta testing

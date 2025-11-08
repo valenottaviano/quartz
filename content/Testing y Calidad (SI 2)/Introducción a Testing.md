@@ -8,6 +8,11 @@ Source:: [[]]
 
 > Descubrir lo inesperado es más importante que confirmar lo conocido. - George E. P. Box
 
+
+
+- Qué es el testing?
+	- Es la Verificación dinámica de que un programa proporciona los comportamientos esperados en un conjunto finito de casos de prueba, seleccionados adecuadamente del dominio de ejecución, generalmente infinito
+
 - Tiene dos enfoques distintos
 	- Positivo: Actividad dirigida a evaluar un atributo o capacidad del sistema para determinas si cumple con los resultados esperados.
 	- Negativo: Proceso en el que se ejecuta un programa o aplicación con la intención de encontrar errores del software

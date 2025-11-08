@@ -16,8 +16,16 @@ Source:: [[]]
 - Establece las bases para implementar mejoras continuas sobre el mismo.
 - Me permite saber si he mejorado o no en una funcionalidad. Puedo comparar.
 
+
 ![[Pasted image 20250904192907.png]]
 
 
+### Pasos de un procesos de pruebas
+
+1. Plan de pruebas
+2. Análisis de pruebas y diseño de pruebas
+3. Implementación de pruebas y ejecución de pruebas
+4. Evaluación de criterios de salida y generación de informes
+5. Actividades de cierre de pruebas
 
 

@@ -61,14 +61,10 @@ Source:: [[]]
 #### Basados en la experiencia
 
 - Son aquellas en las que las pruebas se derivan de la habilidad e intuición del tester y su experiencia con aplicaciones y tecnologías similares
-- 
-
 - Tipos
 	- Predicción de errores
 	- Lista de comprobación
 	- Pruebas exploratorias
-
-
 
 
 ## Técnicas de pruebas (de caja negra)

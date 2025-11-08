@@ -6,8 +6,10 @@ Course:: [[Testing y Calidad]]
 Source:: [[]]
 %%
 
+- Qué es un caso de prueba?
+	- Conjunto de precondiciones, entradas y resultados esperados, desarrollado para dirigir la ejecución de un elemento de prueba, para cumplir con los objetivos de la prueba
+	- Grupo de condiciones, pasos o variables bajo el cual podemos determinar si un requerimiento del sistema es cumplido parcial o totalmente.
 ## Elementos principales de un caso de prueba
-
 1. **Identificador único**
     - Código o nombre que permite rastrear el caso de prueba.
 2. **Objetivo o descripción**

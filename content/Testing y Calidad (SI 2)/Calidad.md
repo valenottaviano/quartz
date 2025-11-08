@@ -36,6 +36,21 @@ Source:: [[]]
 
 ### Aseguramiento vs control de la calidad
 ![[Pasted image 20250823165839.png]]
-
+- Aseguramiento de calidad (QA)
+	- Conjunto de actividades para garantizar la calidad en los procesos de ingeniería de software. Establecer y evaluar los procesos que producen productos
+	- Está enfocada en procesos y prevención
+	- Asegura la adherencia a los procesos, estándares y planes, está orientado a la prevención
+- Control de calidad
+	- Conjunto de actividades para garantizar que los productos cumplen con las especificaciones. Las actividades se centran en la identificación de los defectos de los productos generados.
+	- Está enfocada en productos y detección
+	- Detecta problemas en los productos (defectos)
 ### Dimensiones de la calidad
+1. Factores de calidad
+	- Los factores de calidad o atributos externos, son características que componen la calidad, representan la calidad desde el punto de vista del usuario.
+2. Criterios de calidad
+	- Los criterios de calidad o atributos internos, son aquellos en los que se descomponen los diferentes factores, representan la calidad desde el punto de vista del producto.
+3. Métricas
+	- Son medidas cuantitativas que indican el grado en el que está presente un atributo en el producto
+
+
 ![[Pasted image 20250823170137.png]]
